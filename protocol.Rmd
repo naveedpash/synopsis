@@ -1,0 +1,245 @@
+---
+title: "Predictive Accuracy of ACS Risk Calculator in determining intra- and postoperative complications in Pakistani population"
+author: Naveed Aman Pasha
+date: February 15, 2019 
+output:
+        word_document:
+                toc: true
+                toc_depth: 2
+                number_sections: true
+                theme: darkly
+                highlights: pygments
+                fig_width: 7
+                fig_height: 6
+                fig_caption: true
+                df_print: kable
+                code_folding: hide
+---
+
+# Abstract
+
+-- need to fill --
+
+# Introduction
+
+Undertaking surgical procedures involves a decision making process shared
+between the surgeon and the patient. Clear understanding of the procedure, its
+risks and benefits is essential for patients to make an informed decision.
+Therefore, patients need to know not only what complications can take place but
+also the probability of those complications in order to weigh them against the
+benefits. Knowing the probability of complications becomes especially vital in
+emergency setting when patients are confronted with a sudden decision where both
+affirmation and negation have drastic consequences. Unfortunately, there exists
+no calculator for post-operative morbidity and mortality in the emergency
+setting for the entire South-East Asia Region. 
+
+# Rationale
+
+-- need to fill --
+
+# Objective
+
+The primary objective of this study is assess the accuracy of the ACS NSQIP risk
+calculator in estimating the probability of post-operative mortality and
+morbidity in patients of the Pakistani population undergoing elective and
+emergent surgeries.
+
+# Operational Definitions
+
+These operational definitions have been adapted from the [ACS risk calculator
+website](https://riskcalculator.facs.org/RiskCalculator/PatientInfo.jsp)
+
+1. Functional Status
+
+- Independent: the patient does not require assistance from another person for
+  any activities of daily living. This includes a person who is able to function
+  independently with prosthetics, equipment or devices
+- Partially dependent: the patient requires some assistance from another person
+  for activities of daily
+- Totally dependent: the patient requires total assistance for all activities of
+  daily living
+
+2. ASA classification
+
+- ASA 1: Normal healthy patient
+- ASA 2: Patient with mild systemic disease
+- ASA 3: Patient with severe systemic disease
+- ASA 4: Patient with severe systemic disease that is a constant threat to life
+- ASA 5: Moribund patient who is no expected to survive without operation
+
+3. Steroid Use
+
+This includes any administration of steroids greater a single pulse dose or a
+short taper course less than 10 days.
+
+4. Ascites
+
+The presence of fluid accumulation in peritoneal cavity noted on physical
+examination, abdominal ultrasound or abdominal CT/MRI.
+
+5. Systemic Sepsis
+
+Any patient displaying signs and symptoms of:
+
+- Systemic inflammatory response syndrome
+- Sepsis
+- Septic shock
+
+6. Ventilator Requirement
+
+This does not include patients requiring CPAP for sleep apnoea.
+
+7. Disseminated Cancer
+
+The patient has a primary cancer that has metastasized to a major organ AND
+meets at least one of the following:
+
+- active treatment for the cancer within one year of the surgery date. If the surgical procedure is the treatment for the
+metastatic cancer, answer "Yes"
+- the patient has elected not to receive treatment for the metastatic disease
+- the patient's metastatic cancer has been deemed untreatable
+
+Does not include patients with
+
+- Chronic lymphocytic leukemia,
+- Chronic myelogenous leukemia,
+- Lymphomas of stages I through III or multiple myeloma
+
+8. Presence of Diabetes
+
+This will not include patients whose diabetes is controlled by diet alone.
+
+9. Congestive Heart Failure
+
+- Newly diagnosed CHF within previous 30 days
+- Diagnosis of chronic CHF with signs or symptoms of CHF in the 30 days prior to
+  proposed surgery
+
+10. Current Smoker
+
+A current smoker will not include patients who consumed cigars, pipes or chewing
+tobacco. 
+
+11. Severe COPD
+
+Severe COPD will be defined as:
+
+- Functional disability from COPD
+- Hospitalisation in the past fro treatment of COPD
+- Chronic bronchodilator therapy with oral or inhaled agents
+- FEV<sub>1</sub> of < 75% of predicted
+- Does not include patients whose only pulmonary disease is asthma
+- Does not include patients with diffuse interstitial fibrosis or sarcoidosis
+
+12. Requirement for Dialysis
+
+- Acute or chronic renal failure requiring peritoneal dialysis, hemodialysis,
+  hemofiltration or ultrafiltration within 2 weeks of proposed surgery
+- If a patient refuses dialysis but requires it, the answer will be "yes"
+
+13. Acute Renal Failure
+
+A clinical condition associated with rapid decline of the kidney function. The
+patient meets one of the following:
+
+- Increased BUN on two measurements AND two creatinine results > 3mg/dL
+- Surgeon or physician has documented Acute Renal Failure AND one of the
+  following
+  - Increased BUN on two measurements
+  - Two Cr results > 3 mg/dL
+
+# Methods
+
+Approval for the study will be taken from the Ethical Review Committee of the
+Aga Khan University Hospital.
+
+## Study Design
+
+This will be a single centre descriptive longitudinal study. 
+
+## Study Setting
+
+The study conducted at the Aga Khan University Hospital in the Departments of
+Surgery and Emergency Medicine. Surgeries will be performed in the operating
+rooms. Patients will be observed postoperatively in the General Ward, High
+Dependency Units or outpatient clinics (based on patient condition).
+
+## Inclusion criteria
+
+The study population will comprise of adult patients undergoing any of the
+following surgical procedures:
+
+- Thyroidectomy (total or partial)
+- Parathyroidectomy
+- Diversion or resective colonic surgery
+  - Right hemicolectomy
+  - Left hemicolectomy
+  - Total colectomy
+  - Lower Anterior Resection
+  - Abdomino-perineal resection
+- Pancreatic Procedures
+  - Whipple procedure
+  - Distal Pancreatectomy
+- 
+
+Pertinent patient variables will be:
+
+- Age
+- Gender
+- BMI
+- Functional Status
+- Whether surgery is emergent
+- ASA Class
+- Steroid use for chronic condition
+- Ascites within last 30 days prior to presentation
+- Systematic sepsis within previous 48 hours
+- Presence of congestive heart failure on presentation
+- Presence of acute renal failure on presentation
+- Presence of disseminated cancer
+- Presence of diabetes (none, on oral hypoglycemics, on insulin)
+- Presence of hypertension requiring medication
+- Current Smoker for last one year
+- Presence of severe COPD
+- Dialysis Dependent
+- Ventilator requirement 48 hours prior to planned surgery
+
+Data will be gathered prospectively. These variables will be used to create
+three logistic regression models for mortality, post-operative intensive care
+need and post-operative ventilator need respectively. These variables will also
+be used to create a linear regression model for estimating the hospital stay in
+days.
+
+## Duration of Study
+
+One to two years after the approval of synopsis.
+
+## Sample Size
+
+-- to be calculated --
+
+## Duration of Study
+
+Non-probability consecutive sampling.
+
+## Data Analysis
+
+The statistical analysis will be performed using the R statistical programming
+language and environment. Distributions of the predicted probabilities mortality
+as well as each morbidity will be plotted. Receiver operating curves will be
+plotted for these distributions and the area under the curve will be calculated.
+
+# Expected Outcomes of the Study
+
+Provision of surgical risk calculator in the emergency setting will be
+a tremendous asset to patients. The risk calculator will assist in weighing the
+risks and benefits of the emergency surgery by providing the probability of
+adverse outcomes. It will aid patients in justifying the cost of the surgical
+procedure. It will aid surgeons in tailoring selection of candidates for surgery
+in cases where benefits of surgery are equivocal.
+
+# Dissemination of Results
+
+Results are intended to be submitted for publication as
+free access so that the risk calculator may be freely available to surgeons
+across for application. Study results will be reported in accordance with the
+STROBE guidelines.
