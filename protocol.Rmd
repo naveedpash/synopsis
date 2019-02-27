@@ -18,7 +18,17 @@ output:
 
 # Abstract
 
--- need to fill --
+Clear understanding of the risks and benefits of any surgical procedure is
+crucial for both surgeon and patient when committing to any surgical treatment.
+Surgeons are interested in the ability of the patient to survive the procedure
+without harm. Patients are interested primarily in the gravity of the surgery
+and secondarily in the expected length of hospital stay in order to manage their
+lives according to what best suits patient care. Unfortunately there exists no
+validated surgical risk calculator for the Pakistani population. The objective
+of this study is to ascertain the accuracy of the American College of Surgeons
+National Survey on Quality Improvement Project risk calculator in predicting
+intra- and postoperative adverse outcomes as well as postoperative length of
+stay.
 
 # Introduction
 
@@ -180,7 +190,6 @@ following surgical procedures:
 - Pancreatic Procedures
   - Whipple procedure
   - Distal Pancreatectomy
-- 
 
 Pertinent patient variables will be:
 
@@ -203,11 +212,15 @@ Pertinent patient variables will be:
 - Dialysis Dependent
 - Ventilator requirement 48 hours prior to planned surgery
 
-Data will be gathered prospectively. These variables will be used to create
-three logistic regression models for mortality, post-operative intensive care
-need and post-operative ventilator need respectively. These variables will also
-be used to create a linear regression model for estimating the hospital stay in
-days.
+## Data Collection and Management
+
+A preformed performa will be filled. The data gathered by the performa will be
+entered into the [ACS risk calculator](https://riskcalculator.facs.org). The
+risk of each outcome will be noted. The patients will be followed for 90 days
+postoperatively and outcomes of interest will also be noted. These data will be
+stored online in the form of spreadsheet under password protection. Once data
+collection is complete, hard copies of the performas will be destroyed. Data
+will be anonymised in order to protect patient privacy.
 
 ## Duration of Study
 
@@ -224,9 +237,11 @@ Non-probability consecutive sampling.
 ## Data Analysis
 
 The statistical analysis will be performed using the R statistical programming
-language and environment. Distributions of the predicted probabilities mortality
+language and environment. Distributions of the predicted probabilities of mortality
 as well as each morbidity will be plotted. Receiver operating curves will be
-plotted for these distributions and the area under the curve will be calculated.
+plotted for these distributions by comparing the estimated probabilities of each
+outcome with the actual observed outcomes and the area under the curve will be
+calculated. Data will be gathered prospectively.
 
 # Expected Outcomes of the Study
 
