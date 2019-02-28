@@ -2,18 +2,7 @@
 title: "Predictive Accuracy of ACS Risk Calculator in determining intra- and postoperative complications in Pakistani population"
 author: Naveed Aman Pasha
 date: February 15, 2019 
-output:
-        word_document:
-                toc: true
-                toc_depth: 2
-                number_sections: true
-                theme: darkly
-                highlights: pygments
-                fig_width: 7
-                fig_height: 6
-                fig_caption: true
-                df_print: kable
-                code_folding: hide
+output: word_document
 ---
 
 # Abstract
