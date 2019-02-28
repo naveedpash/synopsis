@@ -43,6 +43,8 @@ affirmation and negation have drastic consequences. Unfortunately, there exists
 no calculator for post-operative morbidity and mortality in the emergency
 setting for the entire South-East Asia Region. 
 
+-- need to fill --
+
 # Rationale
 
 -- need to fill --
@@ -158,6 +160,57 @@ patient meets one of the following:
   - Increased BUN on two measurements
   - Two Cr results > 3 mg/dL
 
+14. Pneumonia
+
+- Infection of the lungs, diagnosed using both radiologic (i.e., infiltrate, consolidation or opacity, cavitation) and clinical (e.g., fever, leukopenia/leukocytosis, culture results, patient symptoms) criteria..
+
+15. Cardiac complication
+
+- Cardiac arrest: The absence of cardiac rhythm or presence of a chaotic cardiac rhythm requiring the initiation of CPR, which includes chest compressions.
+- Myocardial infarction: ECG changes, new elevation in troponin, or physician diagnosis.
+
+16. Surgical site infection (SSI)
+
+-  Superficial Incisional SSI: infection that involves only skin or subcutaneous tissue of the incision. It also includes either: purulent drainage, positive culture, signs/symptoms of infection and the incision is deliberately opened by the surgeon or diagnosis by the attending physician.
+-  Deep Incisional SSI: infection that appears to be related to the operation and involves deep soft tissues (for example, fascial and muscle layers) of the incision. It also includes either: purulent drainage, spontaneous dehiscence, deliberate opening by the surgeon, abscess involving the deep incision, or diagnosis by the attending physician.
+-  Organ Space SSI: infection that involves any part of the anatomy (for example, organs or spaces), other than the incision, which was opened or manipulated during an operation. It also includes either: purulent drainage, positive culture, abscess, or diagnosis by the attending physician.
+
+17. Urinary tract infection
+
+- Bladder infection, diagnosed using a combination of clinical symptoms and laboratory confirmation (e.g., urine culture, pyuria, positive dipstick) or initiation of appropriate antimicrobial therapy.
+
+18. Venous thromboembolism / blood clot
+
+- The identification of a new thrombus within the venous system, described in studies as present in the superficial or deep venous systems but requires therapy. This diagnosis is confirmed by a duplex, venogram, CT scan or other imaging modality, AND the patient requires treatment with anticoagulation therapy and/or placement of a vena cava filter or clipping of the vena cava.
+
+19. Renal failure
+
+-  Progressive renal insufficiency: a rise in creatinine of >2 mg/dl from preoperative value, but with no requirement for dialysis.
+-  Acute renal failure requiring dialysis: A patient who did not require dialysis preoperatively, worsening of renal dysfunction postoperatively requiring hemodialysis, peritoneal dialysis, hemofiltration, hemodiafiltration, or ultrafiltration.
+
+20. Ileus
+
+- Prolonged Postoperative NPO or NGT Use: Prolonged NPO status or NGT use for
+  suctioning or decompression, more than 3 days postoperatively (postoperative day 4 or later) OR
+  reinsertion of NGT or reinstating NPO status any time postoperative day 4 or later within 30 days.
+
+21. Anastomotic Leak
+
+- There was a leak of endoluminal contents through an anastomosis. This could
+  include air, fluid, GI contents, or contrast material. The presence of an
+  infection/abscess thought to be related to an anastomosis, even if the leak
+  cannot be definitively identified as visualized during an operation, or by
+  contrast extravasation, would still be considered an anastomotic leak if this
+  is indicated by the surgeon including
+  - Without a documented treatment intervention
+  - Treated with NPO, Antibiotics, TPN or other non-interventional, non-operative means
+  - Treated with percutaneous/radiological/endoscopic interventional means- i.e.,- percutaneous drainage with or without indwelling drain. endoscopic stent, etc.
+  - Treated with re-operation
+
+22. Return to Operating Room
+
+- Return to the operating room for additional surgery that was not planned at the time of the initial surgery. 
+
 # Methods
 
 Approval for the study will be taken from the Ethical Review Committee of the
@@ -191,7 +244,9 @@ following surgical procedures:
   - Whipple procedure
   - Distal Pancreatectomy
 
-Pertinent patient variables will be:
+## Data Collection and Management
+
+Pertinent patient variables that will be collected are:
 
 - Age
 - Gender
@@ -212,15 +267,25 @@ Pertinent patient variables will be:
 - Dialysis Dependent
 - Ventilator requirement 48 hours prior to planned surgery
 
-## Data Collection and Management
+These variables will be collected on a preformed performa. The
+data gathered by the performa will be entered into the [ACS risk
+calculator](https://riskcalculator.facs.org). The risk of each of the following
+outcomes will be noted:
 
-A preformed performa will be filled. The data gathered by the performa will be
-entered into the [ACS risk calculator](https://riskcalculator.facs.org). The
-risk of each outcome will be noted. The patients will be followed for 90 days
-postoperatively and outcomes of interest will also be noted. These data will be
-stored online in the form of spreadsheet under password protection. Once data
-collection is complete, hard copies of the performas will be destroyed. Data
-will be anonymised in order to protect patient privacy.
+- Pneumonia
+- Cardiac Complication
+- Surgical Site Infection
+- Urinary Tract Infection
+- Renal Failure
+- Ileus
+- Anastomotic Leak
+- Return to Operating Room
+
+The patients will be followed for 90 days postoperatively and outcomes of
+interest will also be noted at 30 and 90 days postoperatively. These data will be stored online in the form of
+spreadsheet under password protection. Once data collection is complete, hard
+copies of the performas will be destroyed. Data will be anonymised in order to
+protect patient privacy.
 
 ## Duration of Study
 
