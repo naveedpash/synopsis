@@ -60,27 +60,26 @@ website](https://riskcalculator.facs.org/RiskCalculator/PatientInfo.jsp)
 - Totally dependent: the patient requires total assistance for all activities of
   daily living
 
+
 2. ASA classification
 
 - ASA 1: Normal healthy patient
 - ASA 2: Patient with mild systemic disease
 - ASA 3: Patient with severe systemic disease
 - ASA 4: Patient with severe systemic disease that is a constant threat to life
-- ASA 5: Moribund patient who is no expected to survive without operation
+- ASA 5: Moribund patient who is no expected to survive without operation  
 
 3. Steroid Use
 
-This includes any administration of steroids greater a single pulse dose or a
-short taper course less than 10 days.
+- Steroids greater a single pulse dose or a short taper course less than 10
+  days.
 
 4. Ascites
 
-The presence of fluid accumulation in peritoneal cavity noted on physical
-examination, abdominal ultrasound or abdominal CT/MRI.
+- The presence of fluid accumulation in peritoneal cavity noted on physical
+  examination, abdominal ultrasound or abdominal CT/MRI.
 
 5. Systemic Sepsis
-
-Any patient displaying signs and symptoms of:
 
 - Systemic inflammatory response syndrome
 - Sepsis
@@ -92,23 +91,19 @@ This does not include patients requiring CPAP for sleep apnoea.
 
 7. Disseminated Cancer
 
-The patient has a primary cancer that has metastasized to a major organ AND
-meets at least one of the following:
-
-- active treatment for the cancer within one year of the surgery date. If the
+- The patient has a primary cancer that has metastasized to a major organ AND
+  - active treatment for the cancer within one year of the surgery date. If the
   surgical procedure is the treatment for the metastatic cancer, answer "Yes"
-- the patient has elected not to receive treatment for the metastatic disease
-- the patient's metastatic cancer has been deemed untreatable
-
-Does not include patients with
-
-- Chronic lymphocytic leukemia,
-- Chronic myelogenous leukemia,
-- Lymphomas of stages I through III or multiple myeloma
+  - the patient has elected not to receive treatment for the metastatic disease
+  - the patient's metastatic cancer has been deemed untreatable
+- EXCEPT
+  - Chronic lymphocytic leukemia,
+  - Chronic myelogenous leukemia,
+  - Lymphomas of stages I through III or multiple myeloma
 
 8. Presence of Diabetes
 
-This will not include patients whose diabetes is controlled by diet alone.
+- This will not include patients whose diabetes is controlled by diet alone.
 
 9. Congestive Heart Failure
 
@@ -118,12 +113,10 @@ This will not include patients whose diabetes is controlled by diet alone.
 
 10. Current Smoker
 
-A current smoker will not include patients who consumed cigars, pipes or chewing
-tobacco. 
+- A current smoker will not include patients who consumed cigars, pipes or
+  chewing tobacco. 
 
 11. Severe COPD
-
-Severe COPD will be defined as:
 
 - Functional disability from COPD
 - Hospitalisation in the past fro treatment of COPD
@@ -139,9 +132,6 @@ Severe COPD will be defined as:
 - If a patient refuses dialysis but requires it, the answer will be "yes"
 
 13. Acute Renal Failure
-
-A clinical condition associated with rapid decline of the kidney function. The
-patient meets one of the following:
 
 - Increased BUN on two measurements AND two creatinine results > 3mg/dL
 - Surgeon or physician has documented Acute Renal Failure AND one of the
@@ -167,22 +157,22 @@ patient meets one of the following:
 -  Superficial Incisional SSI: infection that involves only skin or subcutaneous
    tissue of the incision. It also includes either: purulent drainage, positive
    culture, signs/symptoms of infection and the incision is deliberately opened
-   by the surgeon or diagnosis by the attending physician.
+   by the surgeon or diagnosis by the attending physician
 -  Deep Incisional SSI: infection that appears to be related to the operation
    and involves deep soft tissues (for example, fascial and muscle layers) of
    the incision. It also includes either: purulent drainage, spontaneous
    dehiscence, deliberate opening by the surgeon, abscess involving the deep
-   incision, or diagnosis by the attending physician.
+   incision, or diagnosis by the attending physician
 -  Organ Space SSI: infection that involves any part of the anatomy (for
    example, organs or spaces), other than the incision, which was opened or
    manipulated during an operation. It also includes either: purulent drainage,
-   positive culture, abscess, or diagnosis by the attending physician.
+   positive culture, abscess, or diagnosis by the attending physician
 
 17. Urinary tract infection
 
 - Bladder infection, diagnosed using a combination of clinical symptoms and
   laboratory confirmation (e.g., urine culture, pyuria, positive dipstick) or
-  initiation of appropriate antimicrobial therapy.
+  initiation of appropriate antimicrobial therapy
 
 18. Venous thromboembolism / blood clot
 
@@ -190,23 +180,23 @@ patient meets one of the following:
   studies as present in the superficial or deep venous systems but requires
   therapy. This diagnosis is confirmed by a duplex, venogram, CT scan or other
   imaging modality, AND the patient requires treatment with anticoagulation
-  therapy and/or placement of a vena cava filter or clipping of the vena cava.
+  therapy and/or placement of a vena cava filter or clipping of the vena cava
 
 19. Renal failure
 
--  Progressive renal insufficiency: a rise in creatinine of >2 mg/dl from
-   preoperative value, but with no requirement for dialysis.
+-  Progressive renal insufficiency: a rise in creatinine of >2 mg/dL from
+   preoperative value, but with no requirement for dialysis
 -  Acute renal failure requiring dialysis: A patient who did not require
    dialysis preoperatively, worsening of renal dysfunction postoperatively
    requiring hemodialysis, peritoneal dialysis, hemofiltration,
-   hemodiafiltration, or ultrafiltration.
+   hemodiafiltration, or ultrafiltration
 
 20. Ileus
 
 - Prolonged Postoperative NPO or NGT Use: Prolonged NPO status or NGT use for
   suctioning or decompression, more than 3 days postoperatively (postoperative
   day 4 or later) OR reinsertion of NGT or reinstating NPO status any time
-  postoperative day 4 or later within 30 days.
+  postoperative day 4 or later within 30 days
 
 21. Anastomotic Leak
 
@@ -227,14 +217,25 @@ patient meets one of the following:
 22. Return to Operating Room
 
 - Return to the operating room for additional surgery that was not planned at
-  the time of the initial surgery. 
+  the time of the initial surgery 
 
 23. Serious Complication
 
-This includes cardiac arrest, myocardial infarction, pneumonia, progressive renal
-insufficiency, acute renal failure, pulmonary embolism, deep venous thrombosis,
-return to the operating room, deep incisional SSI, organ space SSI, systemic
-sepsis, unplanned intubation, UTI, wound disruption as defined previously.
+- Cardiac arrest
+- Myocardial infarction
+- Pneumonia
+- Progressive renal insufficiency
+- Acute renal failure
+- Pulmonary embolism
+- Deep venous thrombosis
+- Return to the operating room
+- Deep incisional SSI
+- Organ space SSI
+- Systemic
+- Sepsis
+- Unplanned intubation
+- UTI
+- Wound disruption as defined previously
 
 # Methods
 
