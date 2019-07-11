@@ -32,8 +32,6 @@ affirmation and negation have drastic consequences. Unfortunately, there exists
 no calculator for post-operative morbidity and mortality in the emergency
 setting for the entire South-East Asia Region. 
 
--- need to fill --
-
 # Rationale
 
 -- need to fill --
@@ -47,18 +45,15 @@ emergent surgeries.
 
 # Operational Definitions
 
-These operational definitions have been adapted from the [ACS risk calculator
-website](https://riskcalculator.facs.org/RiskCalculator/PatientInfo.jsp)
+These operational definitions have been adapted from the [CARES Surgical Risk
+Calculator](https://carescalculator.com)
 
-1. Functional Status
+1. Nature of Surgery
 
-- Independent: the patient does not require assistance from another person for
-  any activities of daily living. This includes a person who is able to function
-  independently with prosthetics, equipment or devices
-- Partially dependent: the patient requires some assistance from another person
-  for activities of daily
-- Totally dependent: the patient requires total assistance for all activities of
-  daily living
+- Elective: definitive and/or therapeutic surgical intervention planned at a
+  specific date after pre-operative considerations
+- Emergency: unplanned surgical intervention without there is an imminent threat
+  to life
 
 
 2. ASA classification
@@ -69,90 +64,22 @@ website](https://riskcalculator.facs.org/RiskCalculator/PatientInfo.jsp)
 - ASA 4: Patient with severe systemic disease that is a constant threat to life
 - ASA 5: Moribund patient who is no expected to survive without operation  
 
-3. Steroid Use
+3. Anemia Score
 
-- Steroids greater a single pulse dose or a short taper course less than 10
-  days.
 
-4. Ascites
+- Mild anaemia – In men, Hb between 11.0-12.9g/dL; in women, Hb between 11.0-11.9g/dL
+- Moderate/severe anaemia – Hb≤ 10.9g/dL
+Defined according to WHO definition
 
-- The presence of fluid accumulation in peritoneal cavity noted on physical
-  examination, abdominal ultrasound or abdominal CT/MRI.
-
-5. Systemic Sepsis
-
-- Systemic inflammatory response syndrome
-- Sepsis
-- Septic shock
-
-6. Ventilator Requirement
-
-This does not include patients requiring CPAP for sleep apnoea.
-
-7. Disseminated Cancer
-
-- The patient has a primary cancer that has metastasized to a major organ AND
-  - active treatment for the cancer within one year of the surgery date. If the
-  surgical procedure is the treatment for the metastatic cancer, answer "Yes"
-  - the patient has elected not to receive treatment for the metastatic disease
-  - the patient's metastatic cancer has been deemed untreatable
-- EXCEPT
-  - Chronic lymphocytic leukemia,
-  - Chronic myelogenous leukemia,
-  - Lymphomas of stages I through III or multiple myeloma
-
-8. Presence of Diabetes
-
-- This will not include patients whose diabetes is controlled by diet alone.
-
-9. Congestive Heart Failure
+4. Congestive Heart Failure
 
 - Newly diagnosed CHF within previous 30 days
 - Diagnosis of chronic CHF with signs or symptoms of CHF in the 30 days prior to
   proposed surgery
 
-10. Current Smoker
+5. Ischemic Heart Disease
 
-- A current smoker will not include patients who consumed cigars, pipes or
-  chewing tobacco. 
-
-11. Severe COPD
-
-- Functional disability from COPD
-- Hospitalisation in the past fro treatment of COPD
-- Chronic bronchodilator therapy with oral or inhaled agents
-- FEV<sub>1</sub> of < 75% of predicted
-- Does not include patients whose only pulmonary disease is asthma
-- Does not include patients with diffuse interstitial fibrosis or sarcoidosis
-
-12. Requirement for Dialysis
-
-- Acute or chronic renal failure requiring peritoneal dialysis, hemodialysis,
-  hemofiltration or ultrafiltration within 2 weeks of proposed surgery
-- If a patient refuses dialysis but requires it, the answer will be "yes"
-
-13. Acute Renal Failure
-
-- Increased BUN on two measurements AND two creatinine results > 3mg/dL
-- Surgeon or physician has documented Acute Renal Failure AND one of the
-  following
-  - Increased BUN on two measurements
-  - Two Cr results > 3 mg/dL
-
-14. Pneumonia
-
-- Infection of the lungs, diagnosed using both radiologic (i.e., infiltrate,
-  consolidation or opacity, cavitation) and clinical (e.g., fever,
-  leukopenia/leukocytosis, culture results, patient symptoms) criteria.
-
-15. Cardiac complication
-
-- Cardiac arrest: The absence of cardiac rhythm or presence of a chaotic cardiac
-  rhythm requiring the initiation of CPR, which includes chest compressions.
-- Myocardial infarction: ECG changes, new elevation in troponin, or physician
-  diagnosis.
-
-16. Surgical site infection (SSI)
+6. Surgical site infection (SSI)
 
 -  Superficial Incisional SSI: infection that involves only skin or subcutaneous
    tissue of the incision. It also includes either: purulent drainage, positive
@@ -168,13 +95,13 @@ This does not include patients requiring CPAP for sleep apnoea.
    manipulated during an operation. It also includes either: purulent drainage,
    positive culture, abscess, or diagnosis by the attending physician
 
-17. Urinary tract infection
+7. Urinary tract infection
 
 - Bladder infection, diagnosed using a combination of clinical symptoms and
   laboratory confirmation (e.g., urine culture, pyuria, positive dipstick) or
   initiation of appropriate antimicrobial therapy
 
-18. Venous thromboembolism / blood clot
+8. Venous thromboembolism / blood clot
 
 - The identification of a new thrombus within the venous system, described in
   studies as present in the superficial or deep venous systems but requires
@@ -182,44 +109,12 @@ This does not include patients requiring CPAP for sleep apnoea.
   imaging modality, AND the patient requires treatment with anticoagulation
   therapy and/or placement of a vena cava filter or clipping of the vena cava
 
-19. Renal failure
-
--  Progressive renal insufficiency: a rise in creatinine of >2 mg/dL from
-   preoperative value, but with no requirement for dialysis
--  Acute renal failure requiring dialysis: A patient who did not require
-   dialysis preoperatively, worsening of renal dysfunction postoperatively
-   requiring hemodialysis, peritoneal dialysis, hemofiltration,
-   hemodiafiltration, or ultrafiltration
-
-20. Ileus
-
-- Prolonged Postoperative NPO or NGT Use: Prolonged NPO status or NGT use for
-  suctioning or decompression, more than 3 days postoperatively (postoperative
-  day 4 or later) OR reinsertion of NGT or reinstating NPO status any time
-  postoperative day 4 or later within 30 days
-
-21. Anastomotic Leak
-
-- There was a leak of endoluminal contents through an anastomosis. This could
-  include air, fluid, GI contents, or contrast material. The presence of an
-  infection/abscess thought to be related to an anastomosis, even if the leak
-  cannot be definitively identified as visualized during an operation, or by
-  contrast extravasation, would still be considered an anastomotic leak if this
-  is indicated by the surgeon including
-  - Without a documented treatment intervention
-  - Treated with NPO, Antibiotics, TPN or other non-interventional,
-    non-operative means
-  - Treated with percutaneous/radiological/endoscopic interventional means-
-    i.e.,- percutaneous drainage with or without indwelling drain, endoscopic
-    stent, etc.
-  - Treated with re-operation
-
-22. Return to Operating Room
+9. Return to Operating Room
 
 - Return to the operating room for additional surgery that was not planned at
   the time of the initial surgery 
 
-23. Serious Complication
+10. Serious Complication
 
 - Cardiac arrest
 - Myocardial infarction
@@ -258,8 +153,6 @@ Dependency Units or outpatient clinics (based on patient condition).
 The study population will comprise of adult patients undergoing any of the
 following surgical procedures:
 
-- Thyroidectomy (total or partial)
-- Parathyroidectomy
 - Diversion or resective colonic surgery
   - Right hemicolectomy
   - Left hemicolectomy
