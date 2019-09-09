@@ -22,15 +22,19 @@ stay.
 # Introduction
 
 Undertaking surgical procedures involves a decision making process shared
-between the surgeon and the patient. Clear understanding of the procedure, its
-risks and benefits is essential for patients to make an informed decision.
-Therefore, patients need to know not only what complications can take place but
-also the probability of those complications in order to weigh them against the
-benefits. Knowing the probability of complications becomes especially vital in
-emergency setting when patients are confronted with a sudden decision where both
-affirmation and negation have drastic consequences. Unfortunately, there exists
-no calculator for post-operative morbidity and mortality in the emergency
-setting for the entire South-East Asia Region. 
+between the surgeon and the patient. Clear understanding of the procedure,
+its risks and benefits is essential for patients to make an informed
+decision. Therefore, patients need to know not only what complications can
+take place but also the probability of those complications in order to
+weigh them against the benefits. Knowing the probability of complications
+becomes especially vital in emergency setting when patients are confronted
+with a sudden decision where both affirmation and negation have drastic
+consequences. Unfortunately, there exists no calculator for post-operative
+morbidity and mortality in the emergency setting for the entire South-East
+Asia Region. 
+
+_TO DO_: Current Literature Review is based only on PubMed Search, can do
+more extensive literature review
 
 # Rationale
 
