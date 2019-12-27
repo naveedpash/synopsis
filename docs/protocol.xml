@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Effect of EUSOL dressings on Healing Rate in Wounds Healing by Secondary Intention</title>
+<date>March 1, 2019</date>
+<author>
+<personname>
+<firstname>Naveed</firstname>
+<surname>Pasha</surname>
+</personname>
+<email>naveedpash@gmail.com</email>
+</author>
+<authorinitials>NP</authorinitials>
+<revhistory>
+<revision>
+<revnumber>v1.0</revnumber>
+<date>March 1, 2019</date>
+<authorinitials>NP</authorinitials>
+</revision>
+</revhistory>
+</info>
+<simpara><?asciidoc-hr?></simpara>
+<simpara>Abstract here
+---</simpara>
+<section xml:id="_introduction">
+<title>Introduction</title>
+<simpara>Smith et al. describe the Edinburgh University Solution of Lime (EUSOL) to be
+a highly diluted weak acid comprising 1.99 percent EUSOL against 98.01 percent
+water. The exact constituents of the Edinburgh University Solution of Lime are
+0.54 percent hypochlorous acid, 1.28 percent calcium biborate and 0.17 percent
+calcium chloride. Therefore, it is essentially formed of the chemical reaction
+of boric and chlorate salts. In this chemical composition, EUSOL is volatile
+and decomposes into hypochlorous acid and sodium chloride. This process is
+accelerated in the presence of light therefore EUSOL is stored in
+photo-resistant containers. (<link linkend="bibliography-default-Smith_1915">1</link>)</simpara>
+<section xml:id="_mode_of_action">
+<title>Mode of Action</title>
+<simpara>The antiseptic properties of EUSOL were known as far back as 1990s whereby
+experiments show its effectiveness against streptococcus pyogenes among other
+pathogens. EUSOL has even been investigated as an intravenous agent in the
+treatment of the bubonic plague. (<link linkend="bibliography-default-connor1916eusol">2</link>)</simpara>
+<simpara>Recently, EUSOL has also come to be known as a chemical debridement agent.
+(<link linkend="bibliography-default-Farrow_1991">3</link>) It loosens slough (fibrinous, necrotic cellular debris) from
+the base of the wound. In doing so, it prevents the retardation of wound
+granulation (ingrowth of new fibroblasts) and epithelialisation (regeneration
+of the outermost layer of the skin). This theoretically reduces the time to
+wound healing. It also decreases the chance of wound infection as decreased
+slough means reduced nidus of bacterial colonisation.</simpara>
+</section>
+</section>
+<section xml:id="_rationale">
+<title>Rationale</title>
+<simpara>Wounds healing by secondary intention are at risk of developing a layer of
+fibrinous exudate (commonly termed as "slough"). Slough has the potential to
+arrest the formation of healthy granulation tissue as well as to elevate the
+risk of wound super-infection. Meticulous wound dressing involves addressing the
+appearance of slough on wound in order to mitigate the risks of delayed wound
+healing and wound super-infection. The Edinburgh University Solution of Lime is
+commonly added to dressing routines as a method of chemical debridement of
+slough.</simpara>
+<simpara>Several problems remain with the use of EUSOL. The foremost problem is that
+EUSOL is expensive with the cost of averaging to 3 rupees per milliliter. This
+price may not be problematic for small wounds that require once daily dressing.
+However the price can climb steeply if the wounds are of large size or require
+multiple dressings within 24 hours.</simpara>
+<simpara>Another problem, as detailed above, is that the chemical composition of EUSOL
+degrades with time. Therefore EUSOL cannot be purchased or stored in bulk
+quantity. Not all patients have the capacity to visit a pharmacy repeatedly to
+obtained more EUSOL when expired and this is especially a problem for patients
+living in remote areas.</simpara>
+<simpara>Perhaps the most concerning point on using EUSOL for wound care is that its
+efficacy has remained controversial for well more than a decade. One of the
+first objections to the use of EUSOL for wound dressings appears in the 1990s.
+(<link linkend="bibliography-default-Burton_1992">4</link>,<link linkend="bibliography-default-Patton_1992">5</link>) These objections are narrated in letters to the
+editors where doctors describe events where they have been approached by other
+healthcare providers either discouraging or actively refusing the use of EUSOL
+in patient care. The NICE guidelines (NICE, 2019) categorically prohibits the
+use of EUSOL on wounds that are healing by secondary intention.</simpara>
+<simpara>However, it is difficult to synthesize an evidence based opinion regarding EUSOL
+from the literature. To the knowledge of the authors, there exists no study
+directly comparing EUSOL dressing with simple gauze soaked in normal saline.
+Rather, all available studies focus on comparison of EUSOL dressing with a
+variety of other dressing materials. Table 1 summarises these studies.</simpara>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="7">
+<colspec colname="col_1" colwidth="25*"/>
+<colspec colname="col_2" colwidth="16.6666*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="8.3333*"/>
+<colspec colname="col_5" colwidth="8.3333*"/>
+<colspec colname="col_6" colwidth="8.3333*"/>
+<colspec colname="col_7" colwidth="8.3335*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>Study Author &amp; Year</simpara></entry>
+<entry align="left" valign="top"><simpara>Control Group</simpara></entry>
+<entry align="left" valign="top"><simpara>Reported Outcome</simpara></entry>
+<entry align="right" valign="top"><simpara>Outcome of Cases</simpara></entry>
+<entry align="right" valign="top"><simpara>Outcome in Controls</simpara></entry>
+<entry align="right" valign="top"><simpara>Number of Cases</simpara></entry>
+<entry align="right" valign="top"><simpara>Number of Controls</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>Bajaj et al., 2009 (<link linkend="bibliography-default-Bajaj_2009">6</link>)</simpara></entry>
+<entry align="left" valign="top"><simpara>Sugar Coated Dressing</simpara></entry>
+<entry align="left" valign="top"><simpara>Wound size at week 4 (mm)</simpara></entry>
+<entry align="right" valign="top"><simpara>77 &#177; 97.28</simpara></entry>
+<entry align="right" valign="top"><simpara>104 &#177; 130.54</simpara></entry>
+<entry align="right" valign="top"><simpara>24</simpara></entry>
+<entry align="right" valign="top"><simpara>26</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>Goode et al., 1979 (<link linkend="bibliography-default-Smith_2013">7</link>)</simpara></entry>
+<entry align="left" valign="top"><simpara>Dextranomer Beads</simpara></entry>
+<entry align="left" valign="top"><simpara>Time to clean wound bed (days)</simpara></entry>
+<entry align="right" valign="top"><simpara>11.6</simpara></entry>
+<entry align="right" valign="top"><simpara>8.1</simpara></entry>
+<entry align="right" valign="top"><simpara>10</simpara></entry>
+<entry align="right" valign="top"><simpara>10</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>Groenwald et al., 1980 (<link linkend="bibliography-default-Gethin_2015">8</link>)</simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+<entry align="right" valign="top"><simpara>15.4</simpara></entry>
+<entry align="right" valign="top"><simpara>5.9</simpara></entry>
+<entry align="right" valign="top"><simpara>50</simpara></entry>
+<entry align="right" valign="top"><simpara>50</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>Soderberg et al., 1982 (<link linkend="bibliography-default-Reinar_2019">9</link>)</simpara></entry>
+<entry align="left" valign="top"><simpara>Zinc Tape</simpara></entry>
+<entry align="left" valign="top"><simpara>Healing of ulcers (days)</simpara></entry>
+<entry align="right" valign="top"><simpara>30 (21 - 63)</simpara></entry>
+<entry align="right" valign="top"><simpara>17 (12 - 20)</simpara></entry>
+<entry align="right" valign="top"><simpara>42</simpara></entry>
+<entry align="right" valign="top"><simpara>48</simpara></entry>
+</row>
+</tbody>
+<tfoot>
+<row>
+<entry align="left" valign="top"><simpara>Subrahmanyam et al, 2004 (<link linkend="bibliography-default-Jull_2015">10</link>)</simpara></entry>
+<entry align="left" valign="top"><simpara>Honey Coated Bandages</simpara></entry>
+<entry align="left" valign="top"><simpara>Time to healing (days)</simpara></entry>
+<entry align="right" valign="top"><simpara>26.5 &#177; 3.2</simpara></entry>
+<entry align="right" valign="top"><simpara>18.5 &#177; 2.1</simpara></entry>
+<entry align="right" valign="top"><simpara>16</simpara></entry>
+<entry align="right" valign="top"><simpara>14</simpara></entry>
+</row>
+</tfoot>
+</tgroup>
+</informaltable>
+<simpara>Table: Summary of literature comparing EUSOL with various other wound dressing
+materials.</simpara>
+<simpara>It is immediately obvious that no unified conclusion can be drawn from these
+studies. There is no single, uniform measure of wound healing across studies to
+allow objective comparison of the relative performance of EUSOL. Furthermore,
+none of the dressings materials described in these studies are commonly used in
+Pakistan for dressing wounds healing by secondary intention.</simpara>
+<simpara>In summary, the rationale of this study is the need for effective and
+inexpensive dressing to address the slough that frequently appears on surgical
+wounds healing by secondary intention.</simpara>
+<section xml:id="_study_hypotheses">
+<title>Study Hypotheses</title>
+<simpara>The null hypothesis is that the healing rate of open surgical wounds dressed
+with EUSOL dressings is not greater than that of open surgical wounds dressed
+with Normal Saline dressings.</simpara>
+<simpara>The alternate hypothesis is that the healing rate of open surgical wounds
+dressed with EUSOL dressings is greater than that of open surgical wounds
+dressed with Normal Saline dressings</simpara>
+</section>
+</section>
+<section xml:id="_methods_and_materials">
+<title>Methods and Materials</title>
+<section xml:id="_operational_definitions">
+<title>Operational Definitions</title>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Wound Healing Rate</emphasis>: A wound care practitioner will measure the two
+longest diameters for every wound, <emphasis>a</emphasis> and <emphasis>b</emphasis>, such that <emphasis>a</emphasis> and <emphasis>b</emphasis>
+are mutually perpendicular. The diameters will be measured in
+millimeters. The diameters will be measured once every week for a total
+of six weeks from the time of the patients' surgery. The wound healing
+rate will then be calculated as the advance of the wound margin towards
+the center of the wound per day using the formula
+[stem]
++
+2S_0/(p_0T) [mm per day]
++
+where <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi>S</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:math></inlineequation> is the area of the wound on the zeroth day given by
+[stem]
++
+pi/4cdota_0cdotb_0]
++
+and <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi>p</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:math></inlineequation> is the perimeter of the wound on the zeroth day given by
+[stem]
++
+pi[3/4(a_0+b_0)-1/2sqrt(a_0cdotb_0)]
++
+and <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>T</mml:mi></mml:math></inlineequation> is the predicted time of wound closure</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Predicted Time of Wound Closure</emphasis>: The predicted time, in days, for
+a given wound to reduce to 5% of its initial area or the predicted time
+for a given wound to reduce to less than 100 mm<superscript>2</superscript> which ever is
+smaller. This definition has been adapted from Cukjati et al. and will
+be calculated according to their method.</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Diabetic Patient</emphasis>: Patients with reduced ability to auto-regulate serum
+glucose levels as defined by guidelines of the National Institute of Health
+and Care Excellence, United Kingdom (<link linkend="bibliography-default-ICGT_2015">11</link>):</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Documented fasting blood glucose level &gt; 125 mg/dL</simpara>
+</listitem>
+<listitem>
+<simpara>Documented random blood glucose level &gt; 200 mg/dL</simpara>
+</listitem>
+<listitem>
+<simpara>Documented HbA1c &gt; 6.5 mg/dL</simpara>
+</listitem>
+<listitem>
+<simpara>Taking oral hypoglycemic agents</simpara>
+</listitem>
+<listitem>
+<simpara>Taking subcutaneous insulin injection</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Smoking Status and Cigarette Usage</emphasis>: Cigarette usage as defined by the
+Centers of Disease Control and Prevention, USA (<link linkend="bibliography-default-CDC_Smoking">12</link>)</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Every day smoker: An adult who has smoked at least 100 cigarettes in his
+or her lifetime, and who now smokes every day. Previously called a
+“regular smoker”.</simpara>
+</listitem>
+<listitem>
+<simpara>Former smoker: An adult who has smoked at least 100 cigarettes in his
+or her lifetime but who had quit smoking at the time of interview.</simpara>
+</listitem>
+<listitem>
+<simpara>Never smoker: An adult who has never smoked, or who has smoked less
+than 100 cigarettes in his or her lifetime.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Normal Saline Dressing</emphasis>: The practice of applying povidone-iodine to wound
+edges followed by washing wounds with at least 500 cc of normal saline before
+applying gauze in a clean or sterile fashion</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">EUSOL Dressing</emphasis>: The practice of applying povidone-iodine to wound edges
+followed by washing wounds with at least 500 cc of normal saline before
+applying gauze soaked in EUSOL in a clean or sterile fashion</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Open Surgical Wound</emphasis>: Surgical wound where skin has not been approximated by
+staples or sutures</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Wound Care Practitioner</emphasis>: Wound Nurses, surgeons and/or surgical residents
+with at least one year of experience in dressing surgical wounds healing by
+secondary intention</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_primary_objective">
+<title>Primary Objective</title>
+<simpara>To determine whether the healing rate of open surgical wounds healing by
+secondary intention is significantly greater with EUSOL dressing as compared to
+normal saline dressing.</simpara>
+</section>
+<section xml:id="_outcome_measure">
+<title>Outcome Measure</title>
+<simpara>The main outcome measure of this study will be mean healing rate. Healing
+rate will be calculated as defined by Cukjati et al. The authors have
+briefly paraphrase this method of calculation in the "Operational
+Definitions" section for the benefit of the reader who is referred to the
+full text for complete details. The mean healing rate of the patients
+treated with normal saline dressings and patients treated with EUSOL
+dressings will be compared for any significant difference.</simpara>
+</section>
+<section xml:id="_study_design">
+<title>Study Design</title>
+<simpara>This will be a single center, double-blinded, non-placebo-controlled,
+parallel-group study with balanced randomisation (1:1). The study will be
+conducted in Karachi, Pakistan whereby patients will be followed during
+both in-hospital stay as well as outpatients for a total of six weeks
+after surgery.</simpara>
+<simpara>The unblinded data collected from each group will be reviewed by an
+independent Data Monitoring Committee for patient safety. This independent
+Data Monitoring Committee will be responsible for interim analysis of the
+data that may This study will follow surgical wounds left to heal by
+secondary intention. Therefore the study setting will be the Aga Khan
+University Hospital for inpatients as well as patients receiving home
+healthcare in the city of Karachi.</simpara>
+</section>
+<section xml:id="_inclusion_criteria">
+<title>Inclusion Criteria</title>
+<simpara>This study will include adult, post-operative patients with surgical wounds of
+the abdomen and limbs that have been left to heal by secondary intention.</simpara>
+</section>
+<section xml:id="_exclusion_criteria">
+<title>Exclusion Criteria</title>
+<simpara>Patients with the following types of wounds will be excluded from this study:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Wounds resulting from and/or complicated by viscero-cutaneous fistula: These
+wounds involve an abnormal connection between the epithelium of the skin and
+the epithelium of a hollow viscus that normally produces a bodily fluid. Wound
+care of viscero-cutaneous fistulas involves maneuvers to abate the physical
+and chemical effects of the bodily fluid to the skin. Such maneuvers have
+little or no connection with EUSOL. Therefore, wounds related to
+viscero-cutaneous fistulas are beyond the scope of this study.</simpara>
+</listitem>
+<listitem>
+<simpara>Wounds resulting from pre-existing dermatological pathology, for example (but
+not limited to) psoriasis: Wounds resulting from pre-existing dermatological
+pathology have a different natural history of healing as compared to wounds on
+otherwise normal skin.  Management of such wounds typically involves medical
+regimens tailored to curtail the pathology causing the wound and wound healing
+is directly correlated to controlling that pathology. Therefore, these wounds
+are beyond the scope of this study.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_sampling_technique">
+<title>Sampling Technique</title>
+<simpara>This study will recruit patients using consecutive sampling. Informed
+consent will be taken from patients who have undergone surgery whereby the
+surgical wound was left open. Recruitment will be attempted immediately in the
+immediate post-operative period which spans 24 - 48 hours after surgery.</simpara>
+</section>
+<section xml:id="_randomisation_technique">
+<title>Randomisation Technique</title>
+<simpara>The patients will be randomly assigned to one of following two parallel groups
+in a 1:1 ratio:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Normal Saline Dressings</simpara>
+</listitem>
+<listitem>
+<simpara>EUSOL Dressings</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Randomisation will be stratified by diabetic status, smoking status and
+presence of peripheral arterial disease. Following stratification,
+randomisation will be done using block randomisation technique using
+blocks of four, six and eight patients as follows:</simpara>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="8">
+<colspec colname="col_1" colwidth="12.5*"/>
+<colspec colname="col_2" colwidth="12.5*"/>
+<colspec colname="col_3" colwidth="12.5*"/>
+<colspec colname="col_4" colwidth="12.5*"/>
+<colspec colname="col_5" colwidth="12.5*"/>
+<colspec colname="col_6" colwidth="12.5*"/>
+<colspec colname="col_7" colwidth="12.5*"/>
+<colspec colname="col_8" colwidth="12.5*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>Block Identifier</simpara></entry>
+<entry align="left" valign="top"><simpara>Block Size</simpara></entry>
+<entry align="left" valign="top"><simpara>Sequence Within Block</simpara></entry>
+<entry align="left" valign="top"><simpara>Treatment</simpara></entry>
+<entry align="left" valign="top"><simpara>Diabetes</simpara></entry>
+<entry align="left" valign="top"><simpara>Smoker</simpara></entry>
+<entry align="left" valign="top"><simpara>PAD</simpara></entry>
+<entry align="left" valign="top"><simpara>Randomisation Code</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>MH1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>AQ4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>GO6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>ZV5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>MA2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>EO8</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>MZ6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>FQ0</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>BL7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>VF3</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>JL2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>LY2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>YX4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>OZ5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>ZU6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>PM5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>ZN4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>YE2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>ND6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>BS6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>JY9</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>LI5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>TT4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>LC5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>EO2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>NU7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>ZW1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>XL9</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>MQ3</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>KL2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>OJ7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>HR8</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>OL4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>DE6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>LS1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>SE1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>YZ1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>EQ3</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>SS0</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>NA6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>RO2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>YT0</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>SV3</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>LU0</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>YB5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>OC4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>FL2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>CH4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>RX4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>QQ6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>AE6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>PR0</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>TO6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>WT8</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>ZI8</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>CZ5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>XQ8</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>9</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>RA6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>10</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>GN6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>10</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>NN4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>10</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>LZ8</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>10</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>WT7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>NL7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>HG6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>KZ2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>MZ4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>RW1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>CH7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>7</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>FY3</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>11</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>8</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>Yes</simpara></entry>
+<entry align="left" valign="top"><simpara>WE1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>12</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>RU1</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>12</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>JQ6</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>12</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>GL7</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>12</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>UF9</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>13</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>NN5</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>13</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>FB9</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>13</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"><simpara>EUSOL</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>AO2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>13</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>EE2</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>13</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>EF4</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>13</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>6</simpara></entry>
+<entry align="left" valign="top"><simpara>Normal Saline</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>No</simpara></entry>
+<entry align="left" valign="top"><simpara>QK3</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<simpara>Patients will be selected upon presentation to the Aga Khan University Hospital
+using block permutation method. Two blocks of 4 subjects each will be used.
+Upon selection, patients will be randomised to one of the following two study
+groups:</simpara>
+<simpara>Randomisation will be stratified according to diabetic status. Cases will be
+matched with controls on the basis of diabetic status, smoking status and wound
+size.</simpara>
+</section>
+<section xml:id="_sample_size">
+<title>Sample Size</title>
+<simpara>The sample size for this study had been calculated on the basis of the work of
+Bajaj et al. (<link linkend="bibliography-default-Bajaj_2009">6</link>) who compared the rate of wound healing in
+patients treated with sugar coated bandages with that of patients treated with
+EUSOL dressing. To the authors' best knowledge, there is no other study that
+more closely resembles the objectives of this study. Therefore, the authors saw
+fit to base sample size calculation upon this study.</simpara>
+<simpara>Based on this study, the anticipated proportion of patients with wound healing
+in the standard dressing group (case group) is 77% and the anticipated
+proportion of patients with wound healing in the EUSOL dressing group (control
+group).  Thus the relative risk of wound healing from normal saline dressing
+versus EUSOL dressing is expected to be 1.2.</simpara>
+<simpara>The sample size was calculated using OpenEpi Software version 3.01.  The sample
+size was calculated using the above anticipated proportions as well as
+significance of 5%, power of 80% and an inflation of 10% to account for
+non-response. The minimum sample size required was calculated to be 532 patients
+in total: 266 patients in Group 1 (standard dressing) and 266 patients in Group
+2 (EUSOL dressing).</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="images/sample-size.png"/>
+</imageobject>
+<textobject><phrase>Snapshot of Sample Size calculated with OpenEpi</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+</section>
+<bibliography xml:id="_references">
+<title>References</title>
+<simpara><anchor xml:id="bibliography-default-Smith_1915" xreflabel="[bibliography-default-Smith_1915]"/>1.  Smith JL, Drennan AM, Rettie T, Campbell W. Experimental Observations ON THE ANTISEPTIC ACTION OF HYPOCHLOROUS ACID AND ITS APPLICATION TO WOUND TREATMENT. BMJ [Internet]. 1915Jul;2(2847):129–36. Available from: <link xl:href="https://doi.org/10.1136%2Fbmj.2.2847.129">https://doi.org/10.1136%2Fbmj.2.2847.129</link></simpara>
+<simpara><anchor xml:id="bibliography-default-connor1916eusol" xreflabel="[bibliography-default-connor1916eusol]"/>2.  Connor FP. Eusol and Plague: A Suggestion. The Indian Medical Gazette. 1916;51(2):73.</simpara>
+<simpara><anchor xml:id="bibliography-default-Farrow_1991" xreflabel="[bibliography-default-Farrow_1991]"/>3.  Farrow S, Toth B. The place of Eusol in wound management. Nursing Standard [Internet]. 1991Feb;5(22):25–6. Available from: <link xl:href="https://doi.org/10.7748%2Fns.5.22.25.s39">https://doi.org/10.7748%2Fns.5.22.25.s39</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Burton_1992" xreflabel="[bibliography-default-Burton_1992]"/>4.  Burton JL. For and against Eusol. BMJ [Internet]. 1992May;304(6839):1442–3. Available from: <link xl:href="https://doi.org/10.1136%2Fbmj.304.6839.1442-b">https://doi.org/10.1136%2Fbmj.304.6839.1442-b</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Patton_1992" xreflabel="[bibliography-default-Patton_1992]"/>5.  Patton MA. Eusol: the continuing controversy. BMJ [Internet]. 1992Jun;304(6842):1636–. Available from: <link xl:href="https://doi.org/10.1136%2Fbmj.304.6842.1636-a">https://doi.org/10.1136%2Fbmj.304.6842.1636-a</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Bajaj_2009" xreflabel="[bibliography-default-Bajaj_2009]"/>6.  Bajaj G, Karn NK, Shrestha BP, Kumar P, Singh MP. A randomised controlled trial comparing eusol and sugar as dressing agents in the treatment of traumatic wounds. Tropical Doctor [Internet]. 2009Jan;39(1):1–3. Available from: <link xl:href="https://doi.org/10.1258%2Ftd.2008.080322">https://doi.org/10.1258%2Ftd.2008.080322</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Smith_2013" xreflabel="[bibliography-default-Smith_2013]"/>7.  Smith F, Dryburgh N, Donaldson J, Mitchell M. Debridement for surgical wounds. Cochrane Database of Systematic Reviews [Internet]. 2013Sep; Available from: <link xl:href="https://doi.org/10.1002%2F14651858.cd006214.pub4">https://doi.org/10.1002%2F14651858.cd006214.pub4</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Gethin_2015" xreflabel="[bibliography-default-Gethin_2015]"/>8.  Gethin G, Cowman S, Kolbach DN. Debridement for venous leg ulcers. Cochrane Database of Systematic Reviews [Internet]. 2015Sep; Available from: <link xl:href="https://doi.org/10.1002%2F14651858.cd008599.pub2">https://doi.org/10.1002%2F14651858.cd008599.pub2</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Reinar_2019" xreflabel="[bibliography-default-Reinar_2019]"/>9.  Reinar LM, Forsetlund L, Lehman LF, Brurberg KG. Interventions for ulceration and other skin changes caused by nerve damage in leprosy. Cochrane Database of Systematic Reviews [Internet]. 2019Jul; Available from: <link xl:href="https://doi.org/10.1002%2F14651858.cd012235.pub2">https://doi.org/10.1002%2F14651858.cd012235.pub2</link></simpara>
+<simpara><anchor xml:id="bibliography-default-Jull_2015" xreflabel="[bibliography-default-Jull_2015]"/>10.  Jull AB, Cullum N, Dumville JC, Westby MJ, Deshpande S, Walker N. Honey as a topical treatment for wounds. Cochrane Database of Systematic Reviews [Internet]. 2015Mar; Available from: <link xl:href="https://doi.org/10.1002%2F14651858.cd005083.pub4">https://doi.org/10.1002%2F14651858.cd005083.pub4</link></simpara>
+<simpara><anchor xml:id="bibliography-default-ICGT_2015" xreflabel="[bibliography-default-ICGT_2015]"/>11.  Team ICG. Type 2 Diabetes in Adults: Management. 2015;(28).</simpara>
+<simpara><anchor xml:id="bibliography-default-CDC_Smoking" xreflabel="[bibliography-default-CDC_Smoking]"/>12.  Control Cfor D, Prevention. Adult Tobacco Use Information - Glossary. r̆lhttps://www.cdc.gov/nchs/nhis/tobacco/tobacco_glo ssary.htm; 2017.</simpara>
+</bibliography>
+</article>
