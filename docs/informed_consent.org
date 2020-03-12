@@ -1,0 +1,129 @@
+#+TITLE: Informed Consent Form
+
+* Project Information
+| Title: Effect of EUSOL dressings on Healing Rate in Wounds by Secondary Intention: A double blinded randomized study | Sponser:                               |
+|----------------------------------------------------------------------------------------------------------------------+----------------------------------------|
+| ERC Ref No: _Applied_                                                                                                | Organization: Department of Surgery    |
+| Principal Investigator: Dr. Rehman Alvi                                                                              | Location: Aga Khan University Hospital |
+| Co-Investigators: Dr. Naveed Pasha, Dr. Shiraz Hashmi                                                                |                                        |
+| Phone:                                                                                                               |                                        |
+
+
+* Introduction
+I, Dr. Naveed Aman Pasha, work for Aga Khan University Hospital. We are doing a
+study on wounds that have been left open after surgery. We want to see if wounds
+heal faster if dressing is done with gauze soaked with normal saline as compared
+to gauze soaked with Edinburgh University Solution of Lime (Eusol solution).
+
+* Purpose of the Study
+
+Sometimes people undergo surgeries whereby surgeons do not close the wound with
+sutures but rather leave it open to heal by itself. This is usually because the
+surgery was done on an area that was dirty and/or infected so it is at higher
+risk of getting infected if closed with sutures. Such wounds are normally washed
+daily with normal saline after which they are dressed with gauze soaked in
+normal saline or EUSOL. EUSOL is thought to uproot the dead skin which develops
+during healing process to avoid stopping new, healthy skin from growing into the
+wound. However, EUSOL is an expensive solution. Moreover, the efficacy of EUSOL
+has been questioned world over. This research will compare the healing rate of
+wounds dressed with gauze soaked in EUSOL with that of those dressed with gauze
+soaked in normal saline.
+
+* Participant Selection
+
+We are inviting all patients with open surgical wounds after their surgery to
+participate in this study.
+
+* Voluntary Participation
+
+Your participation in this study is voluntary. Your choice to participate in
+this study does not affect the service you receive at the Aga Khan University
+Hospital. If you decide not to participate in this study you will continue to
+receive treatment routinely offered for dressing of open surgical wounds
+regarding which you will be informed later.
+
+* Type of Research Investigation
+
+We are offering you participation in this study because you will undergo a
+surgery after which your wound(s) will be left open to heal. This research will
+involve a nurse or doctor measuring your wound during dressing change once a
+week for a total of six weeks. Measuring your wound will involve holding a ruler
+or measuring tape up to your wound and reading the value. It is a painless
+procedure.
+
+* Description of Process and Duration of Study
+
+In this research, you will be assigned to one of two groups whereby your wound
+will be dressed with gauze soaked in normal saline or gauze soaked with EUSOL.
+Neither you nor your nurse/doctor will know which of the two your wound is being
+dressed with. This is necessary in order to keep the research process objective.
+Once you have been assigned, wound dressing will be done daily for a total of
+six weeks whereby your wound be measured every week as detailed above.
+
+** TODO Write Discharge instructions and home dressing here
+
+After six weeks have elapsed and all measurements are complete your care will be
+resumed by your surgeon who will instruct you on how to dress your wound(s).
+
+* Benefits
+
+Your participation will also help us find out if doctors should actually be
+prescribing EUSOL which is an expensive solution. The results of this study can
+then be published so that other medical experts can benefit at large.
+
+* Financial Considerations
+
+As part of participation in this study, you will be reimbursed for your follow
+up visits to the wound clinic as well as wound dressings during those visits for
+the first 7 weeks after your surgery.If you remain in hospital for any time
+period during the first seven weeks, you will be reimbursed for the dressings on
+the day of week on which your wound measurements are taken as part of the study.
+
+ You will not continue to be reimbursed after the first 7 weeks have elapsed.
+ Furthermore, your participation in the study will end if your wound is
+ determined to have become infected and/or needs re-look debridement during the
+ course of the first 7 weeks after surgery. Your surgeon will be informed at
+ this point and you will cease to get any reimbursements.
+
+* Risks
+
+Any risk can appear during the study. The most prominent risks is wound
+infection Your progress will be monitored by our team of healthcare providers
+who will address any concerns if and when they arise.
+
+* Available Treatment Alternatives
+
+There are no major treatment alternatives for surgical wounds. Both Normal
+Saline and EUSOL are commonly used treatments. Almost every wound is washed with
+normal saline unless the wound is very small. EUSOL is also used frequently in
+clinical practice.
+
+* Available Medical Treatment for Adverse Experiences
+
+As stated previously, if your wound gets infected you will be referred to your
+primary surgeon for further treatment.
+
+* Confidentiality
+
+The persons involve in conducting this research will not share the
+identity of or disclose any information regarding patients who have
+agreed to participate in this study. The data collected during this
+research will be kept confidential. A stringent procedure is in place to
+ensure that data collected during this research is used only by persons
+conducting this study.
+
+* Available Sources of Information
+Any further questions you have about this study will be answered by contacting
+021-3486****
+
+* Authorization
+I have read or listened to the form being read, and understand this consent
+form, and I volunteer to get enrolled in this research study. I understand that
+I will recieve a copy of this form. I voluntarily choose to get enrolled, but I
+understand that my consent does not take away any legal rights in the case of
+negligence or other legal fault of anyone who is involved in this study.
+
+| Name of Patient/Guardian:                            | Relationship to Patient (if Guardian): |
+| Signature or thumb impression:                       | Date:                                  |
+| Name of person obtaining consent:                    | Signature of person obtaining consent: |
+| Name of Principal Investigator (PI): Dr. Rehman Alvi | Signature of PI:                       |
