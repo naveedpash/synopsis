@@ -1,13 +1,12 @@
-#+TITLE: Informed Consent Form
+#+TITLE: Appendix: Informed Consent Form
 
 * Project Information
-| Title: Effect of EUSOL dressings on Healing Rate in Wounds by Secondary Intention: A double blinded randomized study | Sponser:                               |
-|----------------------------------------------------------------------------------------------------------------------+----------------------------------------|
-| ERC Ref No: _Applied_                                                                                                | Organization: Department of Surgery    |
-| Principal Investigator: Dr. Rehman Alvi                                                                              | Location: Aga Khan University Hospital |
-| Co-Investigators: Dr. Naveed Pasha, Dr. Shiraz Hashmi                                                                |                                        |
-| Phone:                                                                                                               |                                        |
-
+| Title: Effect of EUSOL dressings on Healing Rate in Wounds by Secondary Intention | Sponsor:                               |
+|-----------------------------------------------------------------------------------+----------------------------------------|
+| ERC Ref No: _Applied_                                                             | Organization: Department of Surgery    |
+| Principal Investigator: Dr. Rehman Alvi                                           | Location: Aga Khan University Hospital |
+| Co-Investigators: Dr. Naveed Pasha, Dr. Shiraz Hashmi                             |                                        |
+| Phone:                                                                            |                                        |
 
 * Introduction
 I, Dr. Naveed Aman Pasha, work for Aga Khan University Hospital. We are doing a
@@ -31,8 +30,8 @@ soaked in normal saline.
 
 * Participant Selection
 
-We are inviting all patients with open surgical wounds after their surgery to
-participate in this study.
+We are inviting all patients with open wounds after their surgery to participate
+in this study.
 
 * Voluntary Participation
 
@@ -44,35 +43,26 @@ regarding which you will be informed later.
 
 * Type of Research Investigation
 
-We are offering you participation in this study because you will undergo a
+We are offering you participation in this study because you have undergone a
 surgery after which your wound(s) will be left open to heal. This research will
 involve a nurse or doctor measuring your wound during dressing change once a
-week for a total of six weeks. Measuring your wound will involve holding a ruler
-or measuring tape up to your wound and reading the value. It is a painless
+week for a total of seven weeks. Measuring your wound will involve holding a
+ruler or measuring tape up to your wound and reading the value. It is a painless
 procedure.
 
 * Description of Process and Duration of Study
-
-In this research, you will be assigned to one of two groups whereby your wound
-will be dressed with gauze soaked in normal saline or gauze soaked with EUSOL.
-Neither you nor your nurse/doctor will know which of the two your wound is being
-dressed with. This is necessary in order to keep the research process objective.
-Once you have been assigned, wound dressing will be done daily for a total of
-six weeks whereby your wound be measured every week as detailed above.
-
-** TODO Write Discharge instructions and home dressing here
-
-After six weeks have elapsed and all measurements are complete your care will be
-resumed by your surgeon who will instruct you on how to dress your wound(s).
+In this research, your wound(s) will be dressed with normal saline or EUSOL as
+prescribed by your surgeon. Wound dressing will be done at least daily or as
+many times prescribed by your surgeon for as long as it takes for your wound to
+heal completely. During this time, you wound will be measured once a week for a
+total of six weeks as detailed above.
 
 * Benefits
-
 Your participation will also help us find out if doctors should actually be
 prescribing EUSOL which is an expensive solution. The results of this study can
 then be published so that other medical experts can benefit at large.
 
 * Financial Considerations
-
 As part of participation in this study, you will be reimbursed for your follow
 up visits to the wound clinic as well as wound dressings during those visits for
 the first 7 weeks after your surgery.If you remain in hospital for any time
@@ -86,31 +76,27 @@ the day of week on which your wound measurements are taken as part of the study.
  this point and you will cease to get any reimbursements.
 
 * Risks
-
 Any risk can appear during the study. The most prominent risks is wound
-infection Your progress will be monitored by our team of healthcare providers
-who will address any concerns if and when they arise.
+infection. Your progress will be monitored by our team of healthcare providers
+who will address any concerns if and when they arise. Neither normal saline nor
+EUSOL predispose you to an increased risk of wound infection.
 
 * Available Treatment Alternatives
-
 There are no major treatment alternatives for surgical wounds. Both Normal
 Saline and EUSOL are commonly used treatments. Almost every wound is washed with
 normal saline unless the wound is very small. EUSOL is also used frequently in
 clinical practice.
 
 * Available Medical Treatment for Adverse Experiences
-
 As stated previously, if your wound gets infected you will be referred to your
 primary surgeon for further treatment.
 
 * Confidentiality
-
-The persons involve in conducting this research will not share the
-identity of or disclose any information regarding patients who have
-agreed to participate in this study. The data collected during this
-research will be kept confidential. A stringent procedure is in place to
-ensure that data collected during this research is used only by persons
-conducting this study.
+The persons involve in conducting this research will not share the identity of
+or disclose any information regarding patients who have agreed to participate in
+this study. The data collected during this research will be kept confidential. A
+stringent procedure is in place to ensure that data collected during this
+research is used only by persons conducting this study.
 
 * Available Sources of Information
 Any further questions you have about this study will be answered by contacting

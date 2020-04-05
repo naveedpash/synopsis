@@ -1,0 +1,19 @@
+#+TITLE: Tables
+| *Study Author & Year*                   | *Control Group*         | *Reported Outcome*               | *Outcome of Cases*   | *Outcome in Controls*   | *Number of Cases*   | *Number of Controls*   |
+| Bajaj et al., 2009 [Bajaj_2009]         | Sugar Coated Dressing   | Wound size at week 4 (mm)        | 77 \textpm{} 97.28   | 104 \textpm{} 130.54    | 24                  | 26                     |
+| Goode et al., 1979 [Smith_2013]         | Dextranomer Beads       | Time to clean wound bed (days)   | 11.6                 | 8.1                     | 10                  | 10                     |
+| Groenwald et al., 1980 [Gethin_2015]    |                         |                                  | 15.4                 | 5.9                     | 50                  | 50                     |
+| Soderberg et al., 1982 [Reinar_2019]    | Zinc Tape               | Healing of ulcers (days)         | 30 (21 - 63)         | 17 (12 - 20)            | 42                  | 48                     |
+| Subrahmanyam et al, 2004 [Jull_2015]    | Honey Coated Bandages   | Time to healing (days)           | 26.5 \textpm{} 3.2   | 18.5 \textpm{} 2.1      | 16                  | 14                     |
+
+Table 1: Summary of literature comparing EUSOL with various other wound dressing
+materials.
+
+| *Study Author & Year* | *Control Group*           | *Reported Outcome*                 | *Outcome of Cases* | *Number of Cases* | *Number of Controls* |
+|-----------------------+---------------------------+------------------------------------+--------------------+-------------------+----------------------|
+| Xu et al.             | Epidermal growth factor   | Time to healing (days)             |     47.52 +/- 1.82 |                49 |                   50 |
+| Konya et al.          | pH balanced body cleanser | Time to healing (days)             |                 20 |                95 |                   90 |
+| Ramarao et al.        | Topical insulin           | Reduction in area on day 14 (mm^2) |              144.9 |                30 |                   30 |
+
+Table2 : Summary of literature comparing normal saline dressing with other wound
+dressing materials.

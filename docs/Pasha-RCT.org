@@ -1,4 +1,4 @@
-#+TITLE: Effect of EUSOL dressings on Healing Rate in Wounds by Secondary Intention: A double blind randomized trial
+#+TITLE: Effect of EUSOL dressings on Healing Rate in Wounds by Secondary Intention: A prospective cohort study
 #+AUTHOR: Naveed Pasha
 #+EMAIL: naveedpash@gmail.com
 #+DATE: March 1, 2019
@@ -7,129 +7,128 @@
 #+OPTIONS: tex:t
 
 * Abstract
-  :PROPERTIES:
-  :CUSTOM_ID: abstract
-  :END:
-
-Wound dressings are an essential part of care of surgical wounds left
-open to heal by secondary intention as wounds that are not regularly
-dressed are prone to delayed healing and accumulation of slough. Several
-materials have been used to enhance the growth of healthy tissue in
-surgical wounds by chemically debriding wound slough. One such material
-is the Edinburgh University Solution of Lime which is commonly used in
-Pakistan. However, the efficacy of EUSOL gauze in accelerating wound
-healing has not been proven in literature as compared to normal saline
-soaked gauze. Moreover, it is an expensive solution. There is a need to
-objectively establish the true benefit of EUSOL soaked dressings in
+Wound dressings are an essential part of care of surgical wounds left open to
+heal by secondary intention as wounds that are not regularly dressed are prone
+to delayed healing and accumulation of slough. Several materials have been used
+to enhance the growth of healthy tissue in surgical wounds by chemically
+debriding wound slough. One such material is the Edinburgh University Solution
+of Lime which is commonly used in Pakistan. However, the efficacy of EUSOL gauze
+in accelerating wound healing has not been proven in literature as compared to
+normal saline soaked gauze. Moreover, it is an expensive solution. There is a
+need to objectively establish the true benefit of EUSOL soaked dressings in
 comparison to normal saline soaked dressing in order to.
 
 * Introduction
+According to Wilkins et al., debridement, irrigation and cleaning for the
+basis of wound care. Debridement involves mechanical removal of dead tissue,
+irrigation involves application of fluid streams to the wound under pressure and
+cleaning involves application of fluid to the wound.cite:Wilkins_2013 These
+activities aim to reduce the amount of non-viable biological material on the
+surface of the wound. Non-viable biological material (such as fibrinous debris
+of dead skin) inhibits myofibroblasts (that grossly appear as granulation
+tissue) from growing into the wound. Wound care activities therefore increase
+the chances of wound healing.
 
-According to Wilkins et al., (ref) debridement, irrigation and cleaning
-for the basis of wound care. Debridement involves mechanical removal of
-dead tissue, irrigation involves application of fluid streams to the
-wound under pressure and cleaning involves application of fluid to the
-wound. [Wilkins\_2013] These activities aim to reduce the amount of
-non-viable biological material on the surface of the wound. Non-viable
-biological material (such as fibrinous debris of dead skin) inhibits
-myofibroblasts (that grossly appear as granulation tissue) from growing
-into the wound. Wound care activities therefore increase the chances of
-wound healing.
+To that end, history has seen the application of various materials to wounds.
+These materials range from herbal applications like turmeric to chemicals such
+as betadine and povidone-iodine. Normal saline and EUSOL are two materials
+commonly used in Pakistan. Normal saline consists of 0.9% sodium chloride (or
+152 mEq of NaCl) dissolved in water. It is colorless and odourless solution.
+It's osmolarity is close to that of blood making it an "isotonic" fluid.
 
-To that end, history has seen the application of various materials to
-wounds. These materials range from herbal applications like turmeric to
-chemicals such as betadine and povidone-iodine. Normal saline and EUSOL
-are two materials commonly used in Pakistan. Normal saline consists of
-0.9% sodium chloride (or 152 mEq of NaCl) dissolved in water. It is
-colorless and odourless solution. It's osmolarity is close to that of
-blood making it an "isotonic" fluid.
-
-Smith et al. describe the Edinburgh University Solution of Lime (EUSOL)
-to be a highly diluted weak acid comprising 1.99 percent EUSOL against
-98.01 percent water. The exact constituents of the Edinburgh University
-Solution of Lime are 0.54 percent hypochlorous acid, 1.28 percent
-calcium biborate and 0.17 percent calcium chloride. Therefore, it is
-essentially formed of the chemical reaction of boric and chlorate salts.
-In this chemical composition, EUSOL is volatile and decomposes into
-hypochlorous acid and sodium chloride. This process is accelerated in
-the presence of light therefore EUSOL is stored in photo-resistant
-containers. [Smith\_1915]
+Smith et al. describe the Edinburgh University Solution of Lime (EUSOL) to be a
+highly diluted weak acid comprising 1.99 percent EUSOL against 98.01 percent
+water. The exact constituents of the Edinburgh University Solution of Lime are
+0.54 percent hypochlorous acid, 1.28 percent calcium biborate and 0.17 percent
+calcium chloride. Therefore, it is essentially formed of the chemical reaction
+of boric and chlorate salts. In this chemical composition, EUSOL is volatile and
+decomposes into hypochlorous acid and sodium chloride. This process is
+accelerated in the presence of light therefore EUSOL is stored in
+photo-resistant containers. cite:Smith_1915
 
 ***  Mode of Action of EUSOL
-    :PROPERTIES:
-    :CUSTOM_ID: mode-of-action-of-eusol
-    :END:
-
 Edmiston et al. found normal saline to have the following advantages: it
-hydrates the wound bed. It also reduces the burden of biological
-material thereby expediting wound healing process. [Edmiston\_2016]
+hydrates the wound bed. It also reduces the burden of biological material
+thereby expediting wound healing process. cite:Edmiston_2016
 
-The antiseptic properties of EUSOL were known as far back as 1990s
-whereby experiments show its effectiveness against streptococcus
-pyogenes among other pathogens. EUSOL has even been investigated as an
-intravenous agent in the treatment of the bubonic plague.
-[connor1916eusol]
+The antiseptic properties of EUSOL were known as far back as 1990s whereby
+experiments show its effectiveness against streptococcus pyogenes among other
+pathogens. EUSOL has even been investigated as an intravenous agent in the
+treatment of the bubonic plague. cite:connor1916eusol
 
-Recently, EUSOL has also come to be known as a chemical debridement
-agent. [Farrow\_1991] It loosens slough (fibrinous, necrotic cellular
-debris) from the base of the wound. In doing so, it prevents the
-retardation of wound granulation (in-growth of new fibroblasts) and
-epithelialization (regeneration of the outermost layer of the skin).
-This theoretically reduces the time to wound healing. It also decreases
-the chance of wound infection as decreased slough means reduced nidus of
-bacterial colonization.
+Recently, EUSOL has also come to be known as a chemical debridement agent.
+cite:Farrow_1991 It loosens slough (fibrinous, necrotic cellular debris) from
+the base of the wound. In doing so, it prevents the retardation of wound
+granulation (in-growth of new fibroblasts) and epithelialization (regeneration
+of the outermost layer of the skin). This theoretically reduces the time to
+wound healing. It also decreases the chance of wound infection as decreased
+slough means reduced nidus of bacterial colonization.
+
+***  Mode of Action of Normal Saline
+Moisture is important for wound healing. Dry wounds have a greater tendency to
+produce exudate (dead cellular debris) and thicker scabs (fibrous tissue). These
+changes in turn delay epithelialization and prolong wound healing.cite:Winter_1963
+
+Application of normal saline to wounds (commonly known as "wet-to-dry
+dressings") keeps wounds moist thereby preventing the changes that prolong wound
+healing. Normal saline is a physiological solution because it is isotonic and
+this also prevents cellular damage. Over the passage of time the surface of the
+wound desiccates making the normal saline increasingly hypertonic. This draws
+water from the wound by osmosis ensuring that the wound stays moist.cite:Lim_2000
 
 * Rationale
-
-Wounds healing by secondary intention are at risk of developing a layer
-of fibrinous exudate (commonly termed as "slough"). Slough has the
-potential to arrest the formation of healthy granulation tissue as well
-as to elevate the risk of wound super-infection. Meticulous wound
-dressing involves addressing the appearance of slough on wound in order
-to mitigate the risks of delayed wound healing and wound
-super-infection. The Edinburgh University Solution of Lime is commonly
-added to dressing routines as a method of chemical debridement of
+Wounds healing by secondary intention are at risk of developing a layer of
+fibrinous exudate (commonly termed as "slough"). Slough has the potential to
+arrest the formation of healthy granulation tissue as well as to elevate the
+risk of wound super-infection. Meticulous wound dressing involves addressing the
+appearance of slough on wound in order to mitigate the risks of delayed wound
+healing and wound super-infection. The Edinburgh University Solution of Lime is
+commonly added to dressing routines as a method of chemical debridement of
 slough.
 
-Several problems remain with the use of EUSOL. The foremost problem is
-that EUSOL is expensive with the cost of averaging to 3 rupees per
-milliliter. This price may not be problematic for small wounds that
-require once daily dressing. However, the price can climb steeply if the
-wounds are of large size or require multiple dressings within 24 hours.
+Several problems remain with the use of EUSOL. The foremost problem is that
+EUSOL is expensive with the cost of averaging to 3 rupees per milliliter. This
+price may not be problematic for small wounds that require once daily dressing.
+However, the price can climb steeply if the wounds are of large size or require
+multiple dressings within 24 hours.
 
-Another problem, as detailed above, is that the chemical composition of
-EUSOL degrades with time. Therefore, EUSOL cannot be purchased or stored
-in bulk quantity. Not all patients have the capacity to visit a pharmacy
-repeatedly to obtained more EUSOL when expired and this is especially a
-problem for patients living in remote areas.
+Another problem, as detailed above, is that the chemical composition of EUSOL
+degrades with time. Therefore, EUSOL cannot be purchased or stored in bulk
+quantity. Not all patients have the capacity to visit a pharmacy repeatedly to
+obtained more EUSOL when expired and this is especially a problem for patients
+living in remote areas.
 
-Perhaps the most concerning point on using EUSOL for wound care is that
-its efficacy has remained controversial for well more than a decade. One
-of the first objections to the use of EUSOL for wound dressings appears
-in the 1990s. [Burton\_1992, Patton\_1992] These objections are narrated
-in letters to the editors where doctors describe events where they have
-been approached by other healthcare providers either discouraging or
-actively refusing the use of EUSOL in patient care. The NICE guidelines
-(NICE, 2019) categorically prohibits the use of EUSOL on wounds that are
-healing by secondary intention.
+Perhaps the most concerning point on using EUSOL for wound care is that its
+efficacy has remained controversial for well more than a decade. One of the
+first objections to the use of EUSOL for wound dressings appears in the
+1990s.cite:Burton_1992,Patton_1992 These objections are narrated in letters to
+the editors where doctors describe events where they have been approached by
+other healthcare providers either discouraging or actively refusing the use of
+EUSOL in patient care. The NICE guidelines (NICE, 2019) categorically prohibits
+the use of EUSOL on wounds that are healing by secondary intention.
 
-However, it is difficult to synthesize an evidence based opinion
-regarding EUSOL from the literature. To the knowledge of the authors,
-there exists no study directly comparing EUSOL dressing with simple
-gauze soaked in normal saline. Rather, all available studies focus on
-comparison of EUSOL dressing with a variety of other dressing materials.
-Table 1 summarizes these studies (see Appendix 1).
+On the other hand, normal saline is significantly less costly and has no
+expiration date. Therefore it is easier for patients to acquire and store normal
+saline. Furthermore, normal saline dressings may have a debridement action as
+well. When the normal saline dressing desiccates and the dry gauze is removed it
+peels the superficial layer of slough along with it.
 
-It is immediately obvious that no unified conclusion can be drawn from
-these studies. There is no single, uniform measure of wound healing
-across studies to allow objective comparison of the relative performance
-of EUSOL. Furthermore, none of the dressings materials described in
-these studies are commonly used in Pakistan for dressing wounds healing
-by secondary intention.
+However, it is difficult to synthesize an evidence based opinion regarding EUSOL
+from the literature. To the knowledge of the authors, there exists no study
+directly comparing EUSOL dressing with simple gauze soaked in normal saline.
+Rather, all available studies focus on comparison of EUSOL dressing with a
+variety of other dressing materials. Table 1 summarizes these studies (see
+Appendix 1).
+
+It is immediately obvious that no unified conclusion can be drawn from these
+studies. There is no single, uniform measure of wound healing across studies to
+allow objective comparison of the relative performance of EUSOL. Furthermore,
+none of the dressings materials described in these studies are commonly used in
+Pakistan for dressing wounds healing by secondary intention.
 
 In summary, the rationale of this study is the need for effective and
-inexpensive dressing to address the slough that frequently appears on
-surgical wounds healing by secondary intention.
+inexpensive dressing to address the slough that frequently appears on surgical
+wounds healing by secondary intention.
 
 ***  Study Hypotheses
 
@@ -148,1391 +147,202 @@ surgical wounds compared to normal saline dressing by secondary
 intention.
 
 * Methods and Materials
-
 ** Operational Definitions
 
-- *Wound Healing Rate*: The value θ of the delayed exponential curve
-  plotted on a graph of advance of wound margin towards the wound center
-  against time since surgery for a set of seven or more wound
-  measurements such that:
+- *Wound Healing Rate*: The value θ of the delayed exponential curve plotted on
+  a graph of advance of wound margin towards the wound center against time since
+  surgery for a set of seven or more wound measurements such that:
+  - The two longest, mutually perpendicular diameters of the wound, a and b
+    measured in mm, are used to calculate the area of the wound, S in mm^2,
+    using the formula
 
-  - The two longest, mutually perpendicular diameters of the wound, a
-    and b measured in mm, are used to calculate the area of the wound, S
-    in mm^{2}, using the formula
+    \begin{equation}
+        \frac{\pi}{4}a_i\cdot b_i
+    \end{equation}
 
-#+BEGIN_QUOTE
-  \begin{equation}
+    and the perimeter, p in mm, of the wound using the formula
 
-  \frac{\pi}{4}a\_i\cdot b\_i
+    \begin{equation}
+        \pi[\frac{3}{4}(a_i+b_i)-\frac{1}{2}\sqrt{a_0\cdot b_0}]
+    \end{equation}
 
-  \end{equation} and the perimeter, p in mm, of the wound using the
-  formula
+  - The advance of wound margin, in mm, towards the center of the wound is
+    calculated using the formula
 
-  \begin{equation}
+      \begin{equation}
+          2\frac{S_0}{p_0T}[mm/day]
+      \end{equation}
 
-  \pi[\frac{3}{4}(a\_i+b\_i)-\frac{1}{2}\sqrt{a\_0\cdot b\_0}]
-
-  \end{equation}
-#+END_QUOTE
-
-- The advance of wound margin, in mm, towards the center of the wound is
-  calculated using the formula
-
-#+BEGIN_QUOTE
-  \begin{equation}
-
-  2\frac{S\_0}{p\_0T}[mm/day]
-
-  \end{equation}
-#+END_QUOTE
-
-- The seven measurements are taken at an interval of one week.
-  [Cukjati\_2001]
-
-- The predicted time, in days, for a given wound to reduce to 5% of its
-  initial area or the predicted time for a given wound to reduce to less
-  than 100 mm^{2} which ever is smaller. This definition has been
-  adapted from Cukjati et al. [Cukjati\_2001]
-
-- *Normal Saline Dressing*: The practice of applying povidone-iodine to
-  wound edges followed by washing wounds with at least 500 cc of normal
-  saline before applying gauze in a clean or sterile fashion
-
-- *EUSOL Dressing*: The practice of applying povidone-iodine to wound
-  edges followed by washing wounds with at least 500 cc of normal saline
-  before applying gauze soaked in EUSOL in a clean or sterile fashion
-
-- *Open Surgical Wound*: Surgical wound where skin has not been
-  approximated by staples or sutures
-
-- *Wound Care Practitioner*: Wound Nurses, surgeons and/or surgical
-  residents with at least one year of experience in dressing surgical
-  wounds healing by secondary intention
-
-- *Diabetic Patient*: Patients with reduced ability to auto-regulate
-  serum glucose levels as defined by guidelines of the National
-  Institute of Health and Care Excellence, United Kingdom [ICGT\_2015]:
-
+  - The seven measurements are taken at an interval of one week. cite:Cukjati_2001
+  - The predicted time, in days, for a given wound to reduce to 5% of its initial
+    area or the predicted time for a given wound to reduce to less than 100 mm^{2}
+    which ever is smaller. This definition has been adapted from Cukjati et al.
+    cite:Cukjati_2001
+- *Normal Saline Dressing*: The practice of applying povidone-iodine to wound
+  edges followed by washing wounds with at least 500 cc of normal saline before
+  applying gauze in a clean or sterile fashion
+- *EUSOL Dressing*: The practice of applying povidone-iodine to wound edges
+  followed by washing wounds with at least 500 cc of normal saline before
+  applying gauze soaked in EUSOL in a clean or sterile fashion
+- *Open Surgical Wound*: Surgical wound where skin has not been approximated by
+  staples or sutures
+- *Wound Care Practitioner*: Wound Nurses, surgeons and/or surgical residents
+  with at least one year of experience in dressing surgical wounds healing by
+  secondary intention
+- *Diabetic Patient*: Patients with reduced ability to auto-regulate serum
+  glucose levels as defined by guidelines of the National Institute of Health
+  and Care Excellence, United Kingdom cite:ICGT_2015:
   - Fasting blood glucose level > 125 mg/dL
-
   - Random blood glucose level > 200 mg/dL
-
   - HbA1c > 6.5 mg/dL
-
   - Taking oral hypoglycemic agents
-
   - Taking subcutaneous insulin injection
+- *Tobacco Usage*: Tobacco usage as defined in the Global Adult Tobacco Survey
+  cite:GATS_2010
+  1. *Daily user*: An adult who uses tobacco based products (smoked or
+     smokeless) every day.
+  2. *Less than daily user*: An adult who uses tobacco based products (smoked or
+     smokeless) but not every day.
+  3. *Never used*: An adult who has never smoked or smokeless tobacco products
+     in his or her lifetime.
 
-- *Smoking Status* and *Cigarette Usage*: Cigarette usage as defined by
-  the Centers of Disease Control and Prevention, USA [CDC\_Smoking]
-
-  1. *Every day smoker*
-
-     1. An adult who has smoked at least 100 cigarettes in his or her
-        lifetime, and who now smokes every day. Previously called a
-        “regular smoker”.
-
-     *Former smoker*
-
-     2. An adult who has smoked at least 100 cigarettes in his or her
-        lifetime but who had quit smoking at the time of interview.
-
-     *Never smoker*
-
-     3. An adult who has never smoked, or who has smoked less than 100
-        cigarettes in his or her lifetime.
-
-- 
-- 
-- 
-- 
-
-  2. ** Study Design
-        :PROPERTIES:
-        :CUSTOM_ID: study-design
-        :END:
-
-This will be a single center, double-blinded, non-placebo-controlled,
-parallel-group study with balanced randomisation (1:1). The study will
-be conducted in Karachi, Pakistan whereby patients will be followed
-during both in-hospital stay as well as outpatients for a total of six
-weeks after surgery.
-
-The unblinded data collected from each group will be reviewed by an
-independent investigator for patient safety. This independent
-investigator will assess each group for frequency of wound infections
-and of wounds that are non-healing. The study will be halted if 10% or
-more patients in either group suffer from wound infections or if 10 % or
-more patients in either group suffer from non-healing wounds.
+** Study Design
+This will be a single center, unmatched prospective cohort study.
 
 ** Study Setting
-This study setting will be the Aga Khan University Hospital for
-inpatients as well as patients receiving home healthcare in the city of
-Karachi.
-
-/*Preparation of Cleansing Agents (EUSOL and Normal Saline)*/
+This study setting will be the Aga Khan University Hospital, Karachi, Pakistan
+whereby patients will be followed during both in-hospital stay as well as
+outpatients for a total of six weeks after surgery.
 
 ** Study Procedures
-This study will involve the blinded use of normal saline and EUSOL in
-their assessment of wound healing capabilities. To that end, these
-solutions will be prepared, packaged and marked for use by the Aga Khan
-University Pharmacy Department.
+This study will involve the use of normal saline and EUSOL in their assessment
+of wound healing capabilities.
 
-Patients who have undergone any abdominal or limb surgery will be
-recruited (see 4.8) and assessed for eligibility (see sections 4.5 &
-4.6). Eligible patients will be offered enrolment in the trial using
-written informed consent Appendix-??. The number of patients who are
+Patients who have undergone any abdominal or limb surgery that result in an open
+wound will be selected based on inclusion and exclusion criteria (see Inclusion
+Criteria and Exclusion Criteria). Selected patients will be offered enrollment
+in the study (See Appendix: Informed Consent). The number of patients who are
 excluded from the study or who refuse to participate will be noted.
-Those who consent will be randomized to either the normal saline group
-or the EUSOL group as described in 8.
 
-Once randomized, the following details will be recorded for all patients
-using the "New Patient Registration" (see 9)
+The following information will be noted for all selected patients using the "New
+Patient Registration" (see 9):
 
 - the patient's age and gender
-
 - the surgery that the patient underwent and the date of that surgery
+- whether the patient is a diabetic or a smoker
+- the longest dimension of the wound and the second-longest dimension that is
+  perpendicular to the first
+- the type of dressing prescribed by the patient's primary surgeon (i.e. normal
+  saline or EUSOL dressings)
 
-- whether the patient is a diabetic, smoker or has peripheral vascular
-  disease
+Following initial registration, patients will be followed once a week for a
+total of 7 weeks. At each follow-up, the following details will be recorded
+using the "Follow-Up Wound Assessment" Form (see Appendix: Proforma)
 
-- the longest dimension of the wound and the second-longest dimension
-  that is perpendicular to the first
+- the longest dimension of the wound and the second-longest dimension that is
+  perpendicular to the first
+- whether the consultant surgeon of that patient has decided to close the wound
+  surgically on that visit and the date of that decision
+- whether the consultant surgeon of that patient has decided to retake the
+  patient to OR for a re-look debridement and the date of that decision.
 
-Following initial registration, patients will receive the allocated
-treatment as described in 8. followed once a week for a total of 7
-weeks. At each follow-up, the following details will be recorded using
-the "Follow-Up Wound Assessment" Form (see 9)
+All wound assessments will be done by a wound nurse with at least one year of
+experience or by a consultant surgeon. At the end of the wound assessment period
+the collected data will be analyzed as per the analysis plan outlined below ([[Data Analysis][See
+Data Analysis)]].
 
-- the longest dimension of the wound and the second-longest dimension
-  that is perpendicular to the first
+The number of patients lost to follow-up and the number of patients who did not
+receive the allocated treatment during the course of the study will be noted.
+These patients will be analyzed on an intention-to-treat basis.
 
-- whether the consultant surgeon of that patient has decided to close
-  the wound surgically and the date of that decision
-
-- whether the consultant surgeon of that patient has decided to retake
-  the patient to OR for a re-look debridement and the date of that
-  decision.
-
-All wound assessments will be done by a wound nurse with at least one
-year of experience or by a consultant surgeon. At the end of the wound
-assessment period the collected data will be analyzed as per the
-analysis plan outlined below (see 4.13). The number of patients lost to
-follow-up and the number of patients who did not receive the allocated
-treatment during the course of the study will be noted. These patients
-will be analyzed on an intention-to-treat basis. The entire study
-procedure is summarized in the consort diagram (see 6).
-
-#+BEGIN_{COMMENT}
-
-***  Intra- and Interobserver Variability Control
-    :PROPERTIES:
-    :CUSTOM_ID: intra--and-interobserver-variability-control
-    :END:
-
-- Training on how to deal with parallax error
-
-- Marking extent of measurement with permanent marker at every time of
-  measurement
-
-  5. ***  IRB form and application
-         :PROPERTIES:
-         :CUSTOM_ID: irb-form-and-application
-         :END:
-
-  6. ***  Follow Up Strategy
-         :PROPERTIES:
-         :CUSTOM_ID: follow-up-strategy
-         :END:
-
-- Discuss the dangers of data collection using home health nursing care
-
-- Discuss the possibility of clinic follow-up for 6 weeks
-
-  - Possibly using grant fund
-
-#+END_{COMMENT}
+***  Intra- and Inter-observer Variability Control
+In order to control variability, observers will be trained on two critical
+aspects of wound measurement:
+1. Avoiding parallax errors while taking wound measurements
+2. Marking the extents of the two longest, perpendicular diameters; this will
+   ensure that the wound is measured along the same axes on subsequent followups
 
 ** Inclusion Criteria
-Tis study will include adult, post-operative patients with surgical
-wounds of the abdomen and limbs that have been left to heal by secondary
-intention.
+This study will include adult, post-operative patients with surgical wounds of
+the abdomen and limbs that have been left to heal by secondary intention.
 
 ** Exclusion Criteria
-Patients with the following types of wounds will be excluded from this
-study:
+Patients with the following types of wounds will be excluded from this study:
 
-- Wounds resulting from and/or complicated by viscero-cutaneous fistula:
-  These wounds involve an abnormal connection between the epithelium of
-  the skin and the epithelium of a hollow viscus that normally produces
-  a bodily fluid. Wound care of viscero-cutaneous fistulas involves
-  maneuvers to abate the physical and chemical effects of the bodily
-  fluid to the skin. Such maneuvers have little or no connection with
-  EUSOL. Therefore, wounds related to viscero-cutaneous fistulas are
-  beyond the scope of this study.
-- Wounds resulting from pre-existing dermatological pathology, for
-  example (but not limited to) psoriasis: Wounds resulting from
-  pre-existing dermatological pathology have a different natural history
-  of healing as compared to wounds on otherwise normal skin. Management
-  of such wounds typically involves medical regimens tailored to curtail
-  the pathology causing the wound and wound healing is directly
-  correlated to controlling that pathology. Therefore, these wounds are
-  beyond the scope of this study.
+- Wounds resulting from and/or complicated by viscero-cutaneous fistula: These
+  wounds involve an abnormal connection between the epithelium of the skin and
+  the epithelium of a hollow viscus that normally produces a bodily fluid. Wound
+  care of viscero-cutaneous fistulas involves maneuvers to abate the physical
+  and chemical effects of the bodily fluid to the skin. Such maneuvers have
+  little or no connection with EUSOL. Therefore, wounds related to
+  viscero-cutaneous fistulas are beyond the scope of this study.
+- Wounds resulting from pre-existing dermatological pathology, for example (but
+  not limited to) psoriasis: Wounds resulting from pre-existing dermatological
+  pathology have a different natural history of healing as compared to wounds on
+  otherwise normal skin. Management of such wounds typically involves medical
+  regimens tailored to curtail the pathology causing the wound and wound healing
+  is directly correlated to controlling that pathology. Therefore, these wounds
+  are beyond the scope of this study.
 - Wounds in patients on corticosteroid therapy
-- Wounds in patients undergoing re-look debridement of the wound being
-  studied
+- Wounds in patients undergoing re-look debridement of the wound being studied
 
 ** Outcome Measure
-The main outcome measure of this study will be the difference in mean
-healing rate between the normal saline and EUSOL groups. Healing rate
-will be calculated as defined by Cukjati et al. (see 4.1).
+The main outcome measure of this study will be the difference in mean healing
+rate between the normal saline and EUSOL groups. Healing rate will be calculated
+as defined by Cukjati et al. cite:Cukjati_2001
 
 ** Sampling Technique
-This study will recruit patients using consecutive sampling. Patients
-will be identified for recruitment on a daily basis using the Main
-Operating Room and Day care Surgery Operating Room case list Recruitment
-will be attempted 24 - 48 hours after surgery.
+This study will recruit patients using consecutive sampling. Patients will be
+identified for selection on a daily basis using the Main Operating Room and Day
+care Surgery Operating Room case list. Patients will be approached for informed
+consent 24 - 48 hours after surgery.
 
-** Randomization Technique
-The patients will be randomly assigned to one of following two parallel
-groups in a 1:1 ratio:
+** Sample Size
+The sample size for this study had been calculated on the basis of the works of
+Carneiro et al. and Ramarao et al. who studied the wound healing rates after
+normal saline and EUSOL dressings respectively as mm^2 per day. Carneiro et al.
+reported a wound healing rate of 149 mm^2 per day while using normal saline
+dressings and Ramarao et al. reported a wound healing rate of 292 mm^2 per day
+while using EUSOL dressings.
 
-- Normal Saline Dressings
+Based on this data, as well as using a 10% inflation to account for loss to
+followup, the calculated sample size is 52 patients (26 patients in the normal
+saline group and 26 patients in the EUSOL group). The sample size was calculated
+using NCSS PASS software.
 
-- EUSOL Dressings
-
-Randomization will be stratified by diabetic status, smoking status and
-presence of peripheral arterial disease. Following stratification,
-randomization will be done using block randomization technique using
-blocks of four, six and eight patients.
-
-Randomization will be done by the Aga Khan University Clinical Trials
-Unit as described in 8. This randomization table was generated using the
-online tool Sealed Envelope [simple\_rand\_serv].
-
-** TODO /involve CTU to elaborate process/ Blinding Technique
-Preparation of the aliquots of normal saline and EUSOL will be conducted
-by the Aga Khan Hospital Pharmacy Department. EUSOL is a photosensitive
-compound (see 2) and must therefore be stored in tinted reagent bottles
-to prevent decomposition. To prevent identification of EUSOL from normal
-saline, aliquots of normal saline will also be stored in tinted reagent
-bottles.
-
-Following preparation, Aga Khan University Clinical Trials Unit will
-label the bottles. The labels will state the contents of the bottle and
-a randomization code from the table described in 8.
-
-Following labelling, aliquots will be allocated to patients who have
-been randomized to the same treatment arm as their contents. The
-Clinical Trials Unit will note the patient to whom each aliquot has been
-allocated on the randomization table next to the respective
-randomization code.
-
-** TODO /re-estimate sample size/ Sample Size
-The sample size for this study had been calculated on the basis of the
-work of Bajaj et al. [Bajaj\_2009] who compared the rate of wound
-healing in patients treated with sugar coated bandages with that of
-patients treated with EUSOL dressing. To the authors' best knowledge,
-there is no other study that more closely resembles the objectives of
-this study. Therefore, the authors saw fit to base sample size
-calculation upon this study.
-
-Based on this study, the anticipated proportion of patients with wound
-healing in the standard dressing group (case group) is 77% and the
-anticipated proportion of patients with wound healing in the EUSOL
-dressing group (control group). Thus the relative risk of wound healing
-from normal saline dressing versus EUSOL dressing is expected to be 1.2.
-
-The sample size was calculated using OpenEpi Software version 3.01. The
-sample size was calculated using the above anticipated proportions as
-well as significance of 5%, power of 80% and an inflation of 10% to
-account for non-response. The minimum sample size required was
-calculated to be 532 patients in total: 266 patients in Group 1
-(standard dressing) and 266 patients in Group 2 (EUSOL dressing).
-
-**  Study Duration
+** Study Duration
 In order to estimate the study duration, the authors submitted a request to the
-Aga Khan University Health Information Systems (HIS) in search of the number of
-cases that resulted in surgical wounds of the abdomen and limbs left to heal by
-secondary intention. The number of case records bearing the following ICD-9-CM
-codes in the last year were queried from the hospital database via The Aga Khan
-University Health Information Systems (HIS):
+AgaKhan University Health Information Systems (HIS) in search of the number of
+cass that resulted in surgical wounds of the abdomen and limbs left to heal by
+secndary intention. The number of case records bearing the following ICD-9-CM
+cods in the last year were queried from the hospital database via The Aga Khan
+Uniersity Health Information Systems (HIS):
 
-- Exploratory Laparotomy: 54.11 = 231
-- Re-open Laparotomy: 54.12​ = 23
-- Reversal of Colostomy: 46.52 = 35
-- Carbuncle: 68.00 - 68.09 = 50
-- Incision and Drainage of Abscess: 86.04 = 176
-- Above Knee Amputation: 84.17 = 29
-- Below Knee Amputation: 84.15 = 62
+- Eploratory Laparotomy: 54.11 = 231
+- R-open Laparotomy: 54.12​ = 23
+- Rversal of Colostomy: 46.52 = 35
+- Crbuncle: 68.00 - 68.09 = 50
+- Icision and Drainage of Abscess: 86.04 = 176
+- Aove Knee Amputation: 84.17 = 29
+- Blow Knee Amputation: 84.15 = 62
 
-This query resulted in a total of 606 cases which exceeds the required
-sample size within one year. Accounting for the 7 week follow-up required for each
-patient, this study is expected to take a maximum of 18 months to
-complete.
+Thi query resulted in a total of 606 cases which exceeds the required samle size
+within one year. Accounting for the 7 week follow-up required for each patent,
+this study is expected to take a maximum of 18 months to comlete.
 
-**  Data Analysis
+** Data Analysis
 By measuring wounds with the method as defined by Cukjati et al. (see
-Operational Definitions), each wound will have a set of 7 measurements.
-These measurements will then be plotted on a graph of wound area against
-time. This graph follows a delayed exponential curve having coefficient
-θ. The coefficient θ will be calculated for all patients by fitting
-their individual wound measurements to the delayed exponential curve.
-Wounds having a faster healing rate will have a higher value of θ.
-
-Student's t-test will be used to detect any significant difference in θ
-of patients in normal saline group and those in the EUSOL group.
-
-* TODO /add as appendix and cite as titles ???/ Appendix: Tables
-  :PROPERTIES:
-  :CUSTOM_ID: appendix-1-tables
-  :END:
-
-| *Study Author & Year*                   | *Control Group*         | *Reported Outcome*               | *Outcome of Cases*   | *Outcome in Controls*   | *Number of Cases*   | *Number of Controls*   |
-| Bajaj et al., 2009 [Bajaj\_2009]        | Sugar Coated Dressing   | Wound size at week 4 (mm)        | 77 \textpm{} 97.28   | 104 \textpm{} 130.54    | 24                  | 26                     |
-| Goode et al., 1979 [Smith\_2013]        | Dextranomer Beads       | Time to clean wound bed (days)   | 11.6                 | 8.1                     | 10                  | 10                     |
-| Groenwald et al., 1980 [Gethin\_2015]   |                         |                                  | 15.4                 | 5.9                     | 50                  | 50                     |
-| Soderberg et al., 1982 [Reinar\_2019]   | Zinc Tape               | Healing of ulcers (days)         | 30 (21 - 63)         | 17 (12 - 20)            | 42                  | 48                     |
-| Subrahmanyam et al, 2004 [Jull\_2015]   | Honey Coated Bandages   | Time to healing (days)           | 26.5 \textpm{} 3.2   | 18.5 \textpm{} 2.1      | 16                  | 14                     |
-
-Table 1: Summary of literature comparing EUSOL with various other wound
-dressing materials.
-
-* Appendix: Consort Diagram
-
-[[file:media/image1.png]]
-
-* TODO /append as separate annexure/ Appendix: Informed Consent
-** 3a English Version
-
-Study Title: Comparison of wound healing rate between EUSOL and Normal
-Saline Dressings
-
-Principal Investigator: Dr. Rehman Alvi
-
-Name of Organization: Aga Khan University Hospital
-
-This informed consent has two parts
-
-- Information Sheet containing details of the investigation that will be
-  conducted during this study
-
-- Certificate of Consent on which you may give your signature if you
-  agree to participate
-
-Part I: Information Sheet
-
-I, Dr. Naveed Aman Pasha, work for Aga Khan University Hospital. We are
-doing a study on wounds that have been left open after surgery. We want
-to see if wounds heal faster if dressing is done with gauze soaked with
-normal saline as compared to gauze soaked with Edinburgh University
-Solution of Lime (Eusol solution).
-
-*Purpose of the Study*
-
-Sometimes people undergo surgeries whereby surgeons do not close the
-wound with sutures but rather leave it open to heal by itself. This is
-usually because the surgery was done on an area that was dirty and/or
-infected so it is at higher risk of getting infected if closed with
-sutures. Such wounds are normally washed daily with normal saline after
-which they are dressed with gauze soaked in normal saline or EUSOL.
-EUSOL is thought to uproot the dead skin which develops during healing
-process to avoid stopping new, healthy skin from growing into the wound.
-However, EUSOL is an expensive solution. Moreover, the efficacy of EUSOL
-has been questioned world over. This research will compare the healing
-rate of wounds dressed with gauze soaked in EUSOL with that of those
-dressed with gauze soaked in normal saline.
-
-*Participant Selection*
-
-We are inviting all patients with open surgical wounds after their
-surgery to participate in this study.
-
-*Voluntary Participation*
-
-Your participation in this study is voluntary. Your choice to
-participate in this study does not affect the service you receive at the
-Aga Khan University Hospital. If you decide not to participate in this
-study you will continue to receive treatment routinely offered for
-dressing of open surgical wounds regarding which you will be informed
-later.
-
-*Type of Research Investigation*
-
-This research will involve a nurse or doctor measuring your wound during
-dressing change once a week for a total of six weeks. Measuring your
-wound will involve holding a ruler or measuring tape up to your wound
-and reading the value. It is a painless procedure.
-
-*Description of Process and Duration of Study*
-
-In this research, you will be assigned to one of two groups whereby your
-wound will be dressed with gauze soaked in normal saline or gauze soaked
-with EUSOL. Neither you nor your nurse/doctor will know which of the two
-your wound is being dressed with. This is necessary in order to keep the
-research process objective. Wound dressing will be done daily for a
-total of six weeks whereby your wound be measured every week as detailed
-above. After six weeks have elapsed and all measurements are complete
-your care will be resumed by your surgeon who will instruct you on how
-to dress your wound(s).
-
-*Risks*
-
-Any risk can appear during the study. The most prominent risks is wound
-infection Your progress will be monitored by our team of healthcare providers
-who will address any concerns if and when they arise.
-
-*Benefits*
-
-Your participation will also help us find out if doctors should actually be
-prescribing EUSOL which is an expensive solution. The results of this study can
-then be published so that other medical experts can benefit at large.
-
-*Reimbursements*
-
-As part of participation in this study, you will be reimbursed for your follow
-up visits to the wound clinic as well as wound dressings during those visits for
-the first 7 weeks after your surgery.If you remain in hospital for any time
-period during the first seven weeks, you will be reimbursed for the dressings on
-the day of week on which your wound measurements are taken as part of the study.
-
- You will not continue to be reimbursed after the first 7 weeks have elapsed. Furthermore,
- your participation in the study will end if your wound is determined to have
- become infected and/or needs re-look debridement during the course of the first
- 7 weeks after surgery. Your surgeon will be informed at this point and you will
- cease to get any reimbursements.
-
-*************** Need to coordinate a grant funding source
-*************** END
-
-
-*Confidentiality*
-
-The persons involve in conducting this research will not share the
-identity of or disclose any information regarding patients who have
-agreed to participate in this study. The data collected during this
-research will be kept confidential. A stringent procedure is in place to
-ensure that data collected during this research is used only by persons
-conducting this study.
-
-We are offering you participation in this study because you have
-undergone a surgery after which your wound(s) has been left open to
-heal. If you agree to participate in this study, you will be randomly
-assigned to one of two groups: dressings with EUSOL or dressings with
-normal saline.
-
-Once you have been assigned, a doctor or nurse will dress your wound(s)
-with gauze soaked in either of EUSOL or normal saline everyday. Once a
-week, the nurse/doctor will measure your wound with a measuring tape and
-take a picture. This will continue for a total of six weeks.
-
-** TODO 3b Urdu Version
-* TODO /append as annexure and just write the strategy of assigning random # here/ Appendix: Randomization Table
-
-| block identifier   | block size   | sequence within block   | treatment       | Smoker   | Diabetic   | Peripheral Arterial Disease   | code   |
-| 1                  | 6            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | BX8    |
-| 1                  | 6            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | AZ2    |
-| 1                  | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | IO7    |
-| 1                  | 6            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | BP7    |
-| 1                  | 6            | 5                       | Normal Saline   | Yes      | Yes        | Yes                           | VU1    |
-| 1                  | 6            | 6                       | EUSOL           | Yes      | Yes        | Yes                           | RZ8    |
-| 2                  | 6            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | ZZ5    |
-| 2                  | 6            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | ES9    |
-| 2                  | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | IY7    |
-| 2                  | 6            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | UT0    |
-| 2                  | 6            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | YP5    |
-| 2                  | 6            | 6                       | Normal Saline   | Yes      | Yes        | Yes                           | AK3    |
-| 3                  | 6            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | UI6    |
-| 3                  | 6            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | DH8    |
-| 3                  | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | KN6    |
-| 3                  | 6            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | JB8    |
-| 3                  | 6            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | TS6    |
-| 3                  | 6            | 6                       | EUSOL           | Yes      | Yes        | Yes                           | LG1    |
-| 4                  | 8            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | VT9    |
-| 4                  | 8            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | UD6    |
-| 4                  | 8            | 3                       | EUSOL           | Yes      | Yes        | Yes                           | NT1    |
-| 4                  | 8            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | WF5    |
-| 4                  | 8            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | WY1    |
-| 4                  | 8            | 6                       | Normal Saline   | Yes      | Yes        | Yes                           | EU1    |
-| 4                  | 8            | 7                       | Normal Saline   | Yes      | Yes        | Yes                           | VA2    |
-| 4                  | 8            | 8                       | Normal Saline   | Yes      | Yes        | Yes                           | NJ1    |
-| 5                  | 6            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | LU2    |
-| 5                  | 6            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | WW3    |
-| 5                  | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | PA7    |
-| 5                  | 6            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | YX1    |
-| 5                  | 6            | 5                       | Normal Saline   | Yes      | Yes        | Yes                           | DP4    |
-| 5                  | 6            | 6                       | EUSOL           | Yes      | Yes        | Yes                           | CC8    |
-| 6                  | 6            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | LM0    |
-| 6                  | 6            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | ON3    |
-| 6                  | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | FE9    |
-| 6                  | 6            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | MK1    |
-| 6                  | 6            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | OW2    |
-| 6                  | 6            | 6                       | Normal Saline   | Yes      | Yes        | Yes                           | HL2    |
-| 7                  | 4            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | UI5    |
-| 7                  | 4            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | HX1    |
-| 7                  | 4            | 3                       | EUSOL           | Yes      | Yes        | Yes                           | VF5    |
-| 7                  | 4            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | AX1    |
-| 8                  | 4            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | FQ9    |
-| 8                  | 4            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | LU6    |
-| 8                  | 4            | 3                       | EUSOL           | Yes      | Yes        | Yes                           | LN0    |
-| 8                  | 4            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | LW4    |
-| 9                  | 4            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | WY0    |
-| 9                  | 4            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | BD3    |
-| 9                  | 4            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | HV6    |
-| 9                  | 4            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | CC1    |
-| 10                 | 6            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | XP6    |
-| 10                 | 6            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | RI9    |
-| 10                 | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | CK7    |
-| 10                 | 6            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | FF6    |
-| 10                 | 6            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | UZ4    |
-| 10                 | 6            | 6                       | EUSOL           | Yes      | Yes        | Yes                           | LE9    |
-| 11                 | 4            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | YH0    |
-| 11                 | 4            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | BX5    |
-| 11                 | 4            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | IL4    |
-| 11                 | 4            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | CK6    |
-| 12                 | 6            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | AK9    |
-| 12                 | 6            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | SO5    |
-| 12                 | 6            | 3                       | EUSOL           | Yes      | Yes        | Yes                           | MZ5    |
-| 12                 | 6            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | PZ2    |
-| 12                 | 6            | 5                       | Normal Saline   | Yes      | Yes        | Yes                           | RH4    |
-| 12                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | Yes                           | QA2    |
-| 13                 | 4            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | XF9    |
-| 13                 | 4            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | SH0    |
-| 13                 | 4            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | IB3    |
-| 13                 | 4            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | AD7    |
-| 14                 | 6            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | BA8    |
-| 14                 | 6            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | FY7    |
-| 14                 | 6            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | QM8    |
-| 14                 | 6            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | LM6    |
-| 14                 | 6            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | AZ0    |
-| 14                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | Yes                           | AR2    |
-| 15                 | 8            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | PS5    |
-| 15                 | 8            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | ZH0    |
-| 15                 | 8            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | VM7    |
-| 15                 | 8            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | MX3    |
-| 15                 | 8            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | VD9    |
-| 15                 | 8            | 6                       | Normal Saline   | Yes      | Yes        | Yes                           | YT1    |
-| 15                 | 8            | 7                       | EUSOL           | Yes      | Yes        | Yes                           | YY0    |
-| 15                 | 8            | 8                       | EUSOL           | Yes      | Yes        | Yes                           | RB9    |
-| 16                 | 4            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | IH0    |
-| 16                 | 4            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | DW3    |
-| 16                 | 4            | 3                       | EUSOL           | Yes      | Yes        | Yes                           | VM8    |
-| 16                 | 4            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | XO3    |
-| 17                 | 8            | 1                       | Normal Saline   | Yes      | Yes        | Yes                           | ZV4    |
-| 17                 | 8            | 2                       | EUSOL           | Yes      | Yes        | Yes                           | YR9    |
-| 17                 | 8            | 3                       | Normal Saline   | Yes      | Yes        | Yes                           | FQ4    |
-| 17                 | 8            | 4                       | Normal Saline   | Yes      | Yes        | Yes                           | DX8    |
-| 17                 | 8            | 5                       | EUSOL           | Yes      | Yes        | Yes                           | HM6    |
-| 17                 | 8            | 6                       | EUSOL           | Yes      | Yes        | Yes                           | RQ2    |
-| 17                 | 8            | 7                       | Normal Saline   | Yes      | Yes        | Yes                           | ON1    |
-| 17                 | 8            | 8                       | EUSOL           | Yes      | Yes        | Yes                           | HW9    |
-| 18                 | 8            | 1                       | EUSOL           | Yes      | Yes        | Yes                           | CN9    |
-| 18                 | 8            | 2                       | Normal Saline   | Yes      | Yes        | Yes                           | BT9    |
-| 18                 | 8            | 3                       | EUSOL           | Yes      | Yes        | Yes                           | XU2    |
-| 18                 | 8            | 4                       | EUSOL           | Yes      | Yes        | Yes                           | NV2    |
-| 18                 | 8            | 5                       | Normal Saline   | Yes      | Yes        | Yes                           | YR5    |
-| 18                 | 8            | 6                       | EUSOL           | Yes      | Yes        | Yes                           | XW4    |
-| 18                 | 8            | 7                       | Normal Saline   | Yes      | Yes        | Yes                           | HJ2    |
-| 18                 | 8            | 8                       | Normal Saline   | Yes      | Yes        | Yes                           | KU2    |
-| 19                 | 8            | 1                       | EUSOL           | Yes      | Yes        | No                            | OQ7    |
-| 19                 | 8            | 2                       | Normal Saline   | Yes      | Yes        | No                            | QE6    |
-| 19                 | 8            | 3                       | Normal Saline   | Yes      | Yes        | No                            | AZ4    |
-| 19                 | 8            | 4                       | EUSOL           | Yes      | Yes        | No                            | OR8    |
-| 19                 | 8            | 5                       | Normal Saline   | Yes      | Yes        | No                            | RU1    |
-| 19                 | 8            | 6                       | EUSOL           | Yes      | Yes        | No                            | OP0    |
-| 19                 | 8            | 7                       | Normal Saline   | Yes      | Yes        | No                            | LG4    |
-| 19                 | 8            | 8                       | EUSOL           | Yes      | Yes        | No                            | VV0    |
-| 20                 | 8            | 1                       | EUSOL           | Yes      | Yes        | No                            | QI4    |
-| 20                 | 8            | 2                       | EUSOL           | Yes      | Yes        | No                            | DP7    |
-| 20                 | 8            | 3                       | EUSOL           | Yes      | Yes        | No                            | ZS6    |
-| 20                 | 8            | 4                       | EUSOL           | Yes      | Yes        | No                            | XO2    |
-| 20                 | 8            | 5                       | Normal Saline   | Yes      | Yes        | No                            | PK8    |
-| 20                 | 8            | 6                       | Normal Saline   | Yes      | Yes        | No                            | EZ2    |
-| 20                 | 8            | 7                       | Normal Saline   | Yes      | Yes        | No                            | AR4    |
-| 20                 | 8            | 8                       | Normal Saline   | Yes      | Yes        | No                            | NV7    |
-| 21                 | 4            | 1                       | Normal Saline   | Yes      | Yes        | No                            | CK8    |
-| 21                 | 4            | 2                       | Normal Saline   | Yes      | Yes        | No                            | OC8    |
-| 21                 | 4            | 3                       | EUSOL           | Yes      | Yes        | No                            | PK7    |
-| 21                 | 4            | 4                       | EUSOL           | Yes      | Yes        | No                            | VU5    |
-| 22                 | 4            | 1                       | Normal Saline   | Yes      | Yes        | No                            | UJ1    |
-| 22                 | 4            | 2                       | EUSOL           | Yes      | Yes        | No                            | JT2    |
-| 22                 | 4            | 3                       | EUSOL           | Yes      | Yes        | No                            | QE0    |
-| 22                 | 4            | 4                       | Normal Saline   | Yes      | Yes        | No                            | GI5    |
-| 23                 | 8            | 1                       | EUSOL           | Yes      | Yes        | No                            | QX9    |
-| 23                 | 8            | 2                       | Normal Saline   | Yes      | Yes        | No                            | EE8    |
-| 23                 | 8            | 3                       | Normal Saline   | Yes      | Yes        | No                            | UW6    |
-| 23                 | 8            | 4                       | Normal Saline   | Yes      | Yes        | No                            | SY6    |
-| 23                 | 8            | 5                       | EUSOL           | Yes      | Yes        | No                            | HW6    |
-| 23                 | 8            | 6                       | EUSOL           | Yes      | Yes        | No                            | SY9    |
-| 23                 | 8            | 7                       | EUSOL           | Yes      | Yes        | No                            | QP9    |
-| 23                 | 8            | 8                       | Normal Saline   | Yes      | Yes        | No                            | UU1    |
-| 24                 | 6            | 1                       | Normal Saline   | Yes      | Yes        | No                            | KI8    |
-| 24                 | 6            | 2                       | EUSOL           | Yes      | Yes        | No                            | UC0    |
-| 24                 | 6            | 3                       | EUSOL           | Yes      | Yes        | No                            | YP0    |
-| 24                 | 6            | 4                       | EUSOL           | Yes      | Yes        | No                            | QX0    |
-| 24                 | 6            | 5                       | Normal Saline   | Yes      | Yes        | No                            | ZH2    |
-| 24                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | No                            | ZN6    |
-| 25                 | 6            | 1                       | Normal Saline   | Yes      | Yes        | No                            | KK5    |
-| 25                 | 6            | 2                       | Normal Saline   | Yes      | Yes        | No                            | EU4    |
-| 25                 | 6            | 3                       | EUSOL           | Yes      | Yes        | No                            | ND6    |
-| 25                 | 6            | 4                       | EUSOL           | Yes      | Yes        | No                            | TQ5    |
-| 25                 | 6            | 5                       | EUSOL           | Yes      | Yes        | No                            | TP6    |
-| 25                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | No                            | YT8    |
-| 26                 | 8            | 1                       | EUSOL           | Yes      | Yes        | No                            | FP1    |
-| 26                 | 8            | 2                       | Normal Saline   | Yes      | Yes        | No                            | MP5    |
-| 26                 | 8            | 3                       | Normal Saline   | Yes      | Yes        | No                            | FO3    |
-| 26                 | 8            | 4                       | EUSOL           | Yes      | Yes        | No                            | PK5    |
-| 26                 | 8            | 5                       | Normal Saline   | Yes      | Yes        | No                            | TE3    |
-| 26                 | 8            | 6                       | EUSOL           | Yes      | Yes        | No                            | VB8    |
-| 26                 | 8            | 7                       | Normal Saline   | Yes      | Yes        | No                            | ES4    |
-| 26                 | 8            | 8                       | EUSOL           | Yes      | Yes        | No                            | LP0    |
-| 27                 | 4            | 1                       | EUSOL           | Yes      | Yes        | No                            | MX4    |
-| 27                 | 4            | 2                       | Normal Saline   | Yes      | Yes        | No                            | KD3    |
-| 27                 | 4            | 3                       | EUSOL           | Yes      | Yes        | No                            | KW3    |
-| 27                 | 4            | 4                       | Normal Saline   | Yes      | Yes        | No                            | QE4    |
-| 28                 | 6            | 1                       | EUSOL           | Yes      | Yes        | No                            | BB0    |
-| 28                 | 6            | 2                       | Normal Saline   | Yes      | Yes        | No                            | OK9    |
-| 28                 | 6            | 3                       | EUSOL           | Yes      | Yes        | No                            | QP2    |
-| 28                 | 6            | 4                       | EUSOL           | Yes      | Yes        | No                            | FD7    |
-| 28                 | 6            | 5                       | Normal Saline   | Yes      | Yes        | No                            | IO5    |
-| 28                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | No                            | UW2    |
-| 29                 | 6            | 1                       | Normal Saline   | Yes      | Yes        | No                            | TL9    |
-| 29                 | 6            | 2                       | EUSOL           | Yes      | Yes        | No                            | NN3    |
-| 29                 | 6            | 3                       | EUSOL           | Yes      | Yes        | No                            | RB2    |
-| 29                 | 6            | 4                       | Normal Saline   | Yes      | Yes        | No                            | OP1    |
-| 29                 | 6            | 5                       | EUSOL           | Yes      | Yes        | No                            | EJ2    |
-| 29                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | No                            | MX0    |
-| 30                 | 6            | 1                       | EUSOL           | Yes      | Yes        | No                            | WA5    |
-| 30                 | 6            | 2                       | Normal Saline   | Yes      | Yes        | No                            | PG8    |
-| 30                 | 6            | 3                       | EUSOL           | Yes      | Yes        | No                            | IS4    |
-| 30                 | 6            | 4                       | EUSOL           | Yes      | Yes        | No                            | FZ1    |
-| 30                 | 6            | 5                       | Normal Saline   | Yes      | Yes        | No                            | OQ0    |
-| 30                 | 6            | 6                       | Normal Saline   | Yes      | Yes        | No                            | KW7    |
-| 31                 | 4            | 1                       | EUSOL           | Yes      | Yes        | No                            | VU3    |
-| 31                 | 4            | 2                       | Normal Saline   | Yes      | Yes        | No                            | ON9    |
-| 31                 | 4            | 3                       | Normal Saline   | Yes      | Yes        | No                            | YX5    |
-| 31                 | 4            | 4                       | EUSOL           | Yes      | Yes        | No                            | AI6    |
-| 32                 | 8            | 1                       | Normal Saline   | Yes      | Yes        | No                            | AX5    |
-| 32                 | 8            | 2                       | EUSOL           | Yes      | Yes        | No                            | FI9    |
-| 32                 | 8            | 3                       | EUSOL           | Yes      | Yes        | No                            | FQ3    |
-| 32                 | 8            | 4                       | EUSOL           | Yes      | Yes        | No                            | OA7    |
-| 32                 | 8            | 5                       | EUSOL           | Yes      | Yes        | No                            | CK9    |
-| 32                 | 8            | 6                       | Normal Saline   | Yes      | Yes        | No                            | XV2    |
-| 32                 | 8            | 7                       | Normal Saline   | Yes      | Yes        | No                            | XE4    |
-| 32                 | 8            | 8                       | Normal Saline   | Yes      | Yes        | No                            | SK6    |
-| 33                 | 6            | 1                       | EUSOL           | Yes      | Yes        | No                            | GG4    |
-| 33                 | 6            | 2                       | EUSOL           | Yes      | Yes        | No                            | DZ6    |
-| 33                 | 6            | 3                       | Normal Saline   | Yes      | Yes        | No                            | TS2    |
-| 33                 | 6            | 4                       | Normal Saline   | Yes      | Yes        | No                            | ED0    |
-| 33                 | 6            | 5                       | Normal Saline   | Yes      | Yes        | No                            | IJ6    |
-| 33                 | 6            | 6                       | EUSOL           | Yes      | Yes        | No                            | YX9    |
-| 34                 | 4            | 1                       | EUSOL           | Yes      | Yes        | No                            | CQ0    |
-| 34                 | 4            | 2                       | Normal Saline   | Yes      | Yes        | No                            | FP4    |
-| 34                 | 4            | 3                       | EUSOL           | Yes      | Yes        | No                            | AG3    |
-| 34                 | 4            | 4                       | Normal Saline   | Yes      | Yes        | No                            | YP1    |
-| 35                 | 6            | 1                       | Normal Saline   | Yes      | Yes        | No                            | TF8    |
-| 35                 | 6            | 2                       | Normal Saline   | Yes      | Yes        | No                            | KB8    |
-| 35                 | 6            | 3                       | Normal Saline   | Yes      | Yes        | No                            | VD2    |
-| 35                 | 6            | 4                       | EUSOL           | Yes      | Yes        | No                            | YY2    |
-| 35                 | 6            | 5                       | EUSOL           | Yes      | Yes        | No                            | EH8    |
-| 35                 | 6            | 6                       | EUSOL           | Yes      | Yes        | No                            | BW4    |
-| 36                 | 8            | 1                       | Normal Saline   | Yes      | No         | Yes                           | EC4    |
-| 36                 | 8            | 2                       | EUSOL           | Yes      | No         | Yes                           | JK4    |
-| 36                 | 8            | 3                       | EUSOL           | Yes      | No         | Yes                           | CL0    |
-| 36                 | 8            | 4                       | Normal Saline   | Yes      | No         | Yes                           | ZZ8    |
-| 36                 | 8            | 5                       | EUSOL           | Yes      | No         | Yes                           | WQ9    |
-| 36                 | 8            | 6                       | EUSOL           | Yes      | No         | Yes                           | UB0    |
-| 36                 | 8            | 7                       | Normal Saline   | Yes      | No         | Yes                           | QP1    |
-| 36                 | 8            | 8                       | Normal Saline   | Yes      | No         | Yes                           | XJ2    |
-| 37                 | 4            | 1                       | Normal Saline   | Yes      | No         | Yes                           | CL1    |
-| 37                 | 4            | 2                       | Normal Saline   | Yes      | No         | Yes                           | AN0    |
-| 37                 | 4            | 3                       | EUSOL           | Yes      | No         | Yes                           | KK0    |
-| 37                 | 4            | 4                       | EUSOL           | Yes      | No         | Yes                           | PW7    |
-| 38                 | 8            | 1                       | EUSOL           | Yes      | No         | Yes                           | HK7    |
-| 38                 | 8            | 2                       | Normal Saline   | Yes      | No         | Yes                           | JG6    |
-| 38                 | 8            | 3                       | Normal Saline   | Yes      | No         | Yes                           | VS4    |
-| 38                 | 8            | 4                       | Normal Saline   | Yes      | No         | Yes                           | PI2    |
-| 38                 | 8            | 5                       | EUSOL           | Yes      | No         | Yes                           | FA6    |
-| 38                 | 8            | 6                       | EUSOL           | Yes      | No         | Yes                           | LQ0    |
-| 38                 | 8            | 7                       | Normal Saline   | Yes      | No         | Yes                           | IH3    |
-| 38                 | 8            | 8                       | EUSOL           | Yes      | No         | Yes                           | RL6    |
-| 39                 | 4            | 1                       | EUSOL           | Yes      | No         | Yes                           | LL4    |
-| 39                 | 4            | 2                       | Normal Saline   | Yes      | No         | Yes                           | UD1    |
-| 39                 | 4            | 3                       | EUSOL           | Yes      | No         | Yes                           | CR9    |
-| 39                 | 4            | 4                       | Normal Saline   | Yes      | No         | Yes                           | AN4    |
-| 40                 | 6            | 1                       | Normal Saline   | Yes      | No         | Yes                           | XN2    |
-| 40                 | 6            | 2                       | Normal Saline   | Yes      | No         | Yes                           | QZ3    |
-| 40                 | 6            | 3                       | EUSOL           | Yes      | No         | Yes                           | GW0    |
-| 40                 | 6            | 4                       | EUSOL           | Yes      | No         | Yes                           | XF3    |
-| 40                 | 6            | 5                       | Normal Saline   | Yes      | No         | Yes                           | FE6    |
-| 40                 | 6            | 6                       | EUSOL           | Yes      | No         | Yes                           | XI9    |
-| 41                 | 4            | 1                       | Normal Saline   | Yes      | No         | Yes                           | AK7    |
-| 41                 | 4            | 2                       | EUSOL           | Yes      | No         | Yes                           | QM7    |
-| 41                 | 4            | 3                       | Normal Saline   | Yes      | No         | Yes                           | AY3    |
-| 41                 | 4            | 4                       | EUSOL           | Yes      | No         | Yes                           | TM9    |
-| 42                 | 6            | 1                       | EUSOL           | Yes      | No         | Yes                           | XG3    |
-| 42                 | 6            | 2                       | Normal Saline   | Yes      | No         | Yes                           | EH6    |
-| 42                 | 6            | 3                       | Normal Saline   | Yes      | No         | Yes                           | DR3    |
-| 42                 | 6            | 4                       | Normal Saline   | Yes      | No         | Yes                           | UD3    |
-| 42                 | 6            | 5                       | EUSOL           | Yes      | No         | Yes                           | UM8    |
-| 42                 | 6            | 6                       | EUSOL           | Yes      | No         | Yes                           | FI8    |
-| 43                 | 8            | 1                       | EUSOL           | Yes      | No         | Yes                           | TS7    |
-| 43                 | 8            | 2                       | Normal Saline   | Yes      | No         | Yes                           | EW6    |
-| 43                 | 8            | 3                       | EUSOL           | Yes      | No         | Yes                           | CJ7    |
-| 43                 | 8            | 4                       | Normal Saline   | Yes      | No         | Yes                           | WQ7    |
-| 43                 | 8            | 5                       | EUSOL           | Yes      | No         | Yes                           | XR8    |
-| 43                 | 8            | 6                       | Normal Saline   | Yes      | No         | Yes                           | YE4    |
-| 43                 | 8            | 7                       | Normal Saline   | Yes      | No         | Yes                           | IY3    |
-| 43                 | 8            | 8                       | EUSOL           | Yes      | No         | Yes                           | HK9    |
-| 44                 | 8            | 1                       | Normal Saline   | Yes      | No         | Yes                           | UP6    |
-| 44                 | 8            | 2                       | EUSOL           | Yes      | No         | Yes                           | VD4    |
-| 44                 | 8            | 3                       | EUSOL           | Yes      | No         | Yes                           | WT7    |
-| 44                 | 8            | 4                       | Normal Saline   | Yes      | No         | Yes                           | MR3    |
-| 44                 | 8            | 5                       | Normal Saline   | Yes      | No         | Yes                           | ZH7    |
-| 44                 | 8            | 6                       | Normal Saline   | Yes      | No         | Yes                           | TZ7    |
-| 44                 | 8            | 7                       | EUSOL           | Yes      | No         | Yes                           | OA8    |
-| 44                 | 8            | 8                       | EUSOL           | Yes      | No         | Yes                           | NT0    |
-| 45                 | 6            | 1                       | EUSOL           | Yes      | No         | Yes                           | HX6    |
-| 45                 | 6            | 2                       | Normal Saline   | Yes      | No         | Yes                           | TO2    |
-| 45                 | 6            | 3                       | Normal Saline   | Yes      | No         | Yes                           | EP0    |
-| 45                 | 6            | 4                       | EUSOL           | Yes      | No         | Yes                           | GG8    |
-| 45                 | 6            | 5                       | Normal Saline   | Yes      | No         | Yes                           | FO1    |
-| 45                 | 6            | 6                       | EUSOL           | Yes      | No         | Yes                           | AC1    |
-| 46                 | 6            | 1                       | Normal Saline   | Yes      | No         | Yes                           | CD6    |
-| 46                 | 6            | 2                       | EUSOL           | Yes      | No         | Yes                           | PS3    |
-| 46                 | 6            | 3                       | EUSOL           | Yes      | No         | Yes                           | UW8    |
-| 46                 | 6            | 4                       | Normal Saline   | Yes      | No         | Yes                           | LK6    |
-| 46                 | 6            | 5                       | Normal Saline   | Yes      | No         | Yes                           | VY2    |
-| 46                 | 6            | 6                       | EUSOL           | Yes      | No         | Yes                           | US8    |
-| 47                 | 8            | 1                       | Normal Saline   | Yes      | No         | Yes                           | EH9    |
-| 47                 | 8            | 2                       | EUSOL           | Yes      | No         | Yes                           | TD4    |
-| 47                 | 8            | 3                       | EUSOL           | Yes      | No         | Yes                           | RW4    |
-| 47                 | 8            | 4                       | Normal Saline   | Yes      | No         | Yes                           | ER4    |
-| 47                 | 8            | 5                       | EUSOL           | Yes      | No         | Yes                           | ED3    |
-| 47                 | 8            | 6                       | Normal Saline   | Yes      | No         | Yes                           | ED8    |
-| 47                 | 8            | 7                       | EUSOL           | Yes      | No         | Yes                           | WT9    |
-| 47                 | 8            | 8                       | Normal Saline   | Yes      | No         | Yes                           | FO7    |
-| 48                 | 4            | 1                       | EUSOL           | Yes      | No         | Yes                           | KD2    |
-| 48                 | 4            | 2                       | EUSOL           | Yes      | No         | Yes                           | JT4    |
-| 48                 | 4            | 3                       | Normal Saline   | Yes      | No         | Yes                           | SH5    |
-| 48                 | 4            | 4                       | Normal Saline   | Yes      | No         | Yes                           | BM2    |
-| 49                 | 6            | 1                       | Normal Saline   | Yes      | No         | Yes                           | KX9    |
-| 49                 | 6            | 2                       | EUSOL           | Yes      | No         | Yes                           | MJ3    |
-| 49                 | 6            | 3                       | EUSOL           | Yes      | No         | Yes                           | HW8    |
-| 49                 | 6            | 4                       | Normal Saline   | Yes      | No         | Yes                           | TC1    |
-| 49                 | 6            | 5                       | EUSOL           | Yes      | No         | Yes                           | XN9    |
-| 49                 | 6            | 6                       | Normal Saline   | Yes      | No         | Yes                           | UM5    |
-| 50                 | 8            | 1                       | Normal Saline   | Yes      | No         | Yes                           | JF3    |
-| 50                 | 8            | 2                       | Normal Saline   | Yes      | No         | Yes                           | CS7    |
-| 50                 | 8            | 3                       | EUSOL           | Yes      | No         | Yes                           | TO8    |
-| 50                 | 8            | 4                       | EUSOL           | Yes      | No         | Yes                           | YQ0    |
-| 50                 | 8            | 5                       | Normal Saline   | Yes      | No         | Yes                           | BO9    |
-| 50                 | 8            | 6                       | EUSOL           | Yes      | No         | Yes                           | WI1    |
-| 50                 | 8            | 7                       | EUSOL           | Yes      | No         | Yes                           | IM1    |
-| 50                 | 8            | 8                       | Normal Saline   | Yes      | No         | Yes                           | WI9    |
-| 51                 | 8            | 1                       | Normal Saline   | Yes      | No         | Yes                           | UQ4    |
-| 51                 | 8            | 2                       | EUSOL           | Yes      | No         | Yes                           | DL8    |
-| 51                 | 8            | 3                       | Normal Saline   | Yes      | No         | Yes                           | MW2    |
-| 51                 | 8            | 4                       | EUSOL           | Yes      | No         | Yes                           | AA4    |
-| 51                 | 8            | 5                       | Normal Saline   | Yes      | No         | Yes                           | VS5    |
-| 51                 | 8            | 6                       | EUSOL           | Yes      | No         | Yes                           | US2    |
-| 51                 | 8            | 7                       | Normal Saline   | Yes      | No         | Yes                           | AT9    |
-| 51                 | 8            | 8                       | EUSOL           | Yes      | No         | Yes                           | FF8    |
-| 52                 | 8            | 1                       | Normal Saline   | Yes      | No         | No                            | LY6    |
-| 52                 | 8            | 2                       | EUSOL           | Yes      | No         | No                            | DI3    |
-| 52                 | 8            | 3                       | EUSOL           | Yes      | No         | No                            | CM3    |
-| 52                 | 8            | 4                       | Normal Saline   | Yes      | No         | No                            | ND5    |
-| 52                 | 8            | 5                       | Normal Saline   | Yes      | No         | No                            | VQ7    |
-| 52                 | 8            | 6                       | EUSOL           | Yes      | No         | No                            | RW2    |
-| 52                 | 8            | 7                       | Normal Saline   | Yes      | No         | No                            | NH1    |
-| 52                 | 8            | 8                       | EUSOL           | Yes      | No         | No                            | AX8    |
-| 53                 | 4            | 1                       | EUSOL           | Yes      | No         | No                            | EP6    |
-| 53                 | 4            | 2                       | Normal Saline   | Yes      | No         | No                            | NB2    |
-| 53                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | LW8    |
-| 53                 | 4            | 4                       | Normal Saline   | Yes      | No         | No                            | IJ9    |
-| 54                 | 4            | 1                       | Normal Saline   | Yes      | No         | No                            | AS2    |
-| 54                 | 4            | 2                       | EUSOL           | Yes      | No         | No                            | FI6    |
-| 54                 | 4            | 3                       | Normal Saline   | Yes      | No         | No                            | WS7    |
-| 54                 | 4            | 4                       | EUSOL           | Yes      | No         | No                            | VT1    |
-| 55                 | 8            | 1                       | Normal Saline   | Yes      | No         | No                            | AL0    |
-| 55                 | 8            | 2                       | EUSOL           | Yes      | No         | No                            | DH7    |
-| 55                 | 8            | 3                       | EUSOL           | Yes      | No         | No                            | SK7    |
-| 55                 | 8            | 4                       | EUSOL           | Yes      | No         | No                            | PG6    |
-| 55                 | 8            | 5                       | Normal Saline   | Yes      | No         | No                            | FF1    |
-| 55                 | 8            | 6                       | Normal Saline   | Yes      | No         | No                            | ZN2    |
-| 55                 | 8            | 7                       | EUSOL           | Yes      | No         | No                            | FS1    |
-| 55                 | 8            | 8                       | Normal Saline   | Yes      | No         | No                            | ZS1    |
-| 56                 | 4            | 1                       | Normal Saline   | Yes      | No         | No                            | TM8    |
-| 56                 | 4            | 2                       | EUSOL           | Yes      | No         | No                            | ZO1    |
-| 56                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | OD7    |
-| 56                 | 4            | 4                       | Normal Saline   | Yes      | No         | No                            | DZ2    |
-| 57                 | 4            | 1                       | Normal Saline   | Yes      | No         | No                            | MK4    |
-| 57                 | 4            | 2                       | EUSOL           | Yes      | No         | No                            | ZL1    |
-| 57                 | 4            | 3                       | Normal Saline   | Yes      | No         | No                            | QH6    |
-| 57                 | 4            | 4                       | EUSOL           | Yes      | No         | No                            | YK5    |
-| 58                 | 8            | 1                       | Normal Saline   | Yes      | No         | No                            | IH4    |
-| 58                 | 8            | 2                       | Normal Saline   | Yes      | No         | No                            | BA6    |
-| 58                 | 8            | 3                       | Normal Saline   | Yes      | No         | No                            | FB1    |
-| 58                 | 8            | 4                       | Normal Saline   | Yes      | No         | No                            | SR3    |
-| 58                 | 8            | 5                       | EUSOL           | Yes      | No         | No                            | WS4    |
-| 58                 | 8            | 6                       | EUSOL           | Yes      | No         | No                            | PA5    |
-| 58                 | 8            | 7                       | EUSOL           | Yes      | No         | No                            | CS6    |
-| 58                 | 8            | 8                       | EUSOL           | Yes      | No         | No                            | TP1    |
-| 59                 | 4            | 1                       | EUSOL           | Yes      | No         | No                            | YO6    |
-| 59                 | 4            | 2                       | EUSOL           | Yes      | No         | No                            | IN3    |
-| 59                 | 4            | 3                       | Normal Saline   | Yes      | No         | No                            | YT0    |
-| 59                 | 4            | 4                       | Normal Saline   | Yes      | No         | No                            | RL4    |
-| 60                 | 6            | 1                       | Normal Saline   | Yes      | No         | No                            | IY9    |
-| 60                 | 6            | 2                       | Normal Saline   | Yes      | No         | No                            | FF4    |
-| 60                 | 6            | 3                       | Normal Saline   | Yes      | No         | No                            | WJ8    |
-| 60                 | 6            | 4                       | EUSOL           | Yes      | No         | No                            | RZ0    |
-| 60                 | 6            | 5                       | EUSOL           | Yes      | No         | No                            | KK4    |
-| 60                 | 6            | 6                       | EUSOL           | Yes      | No         | No                            | JO8    |
-| 61                 | 6            | 1                       | EUSOL           | Yes      | No         | No                            | VB4    |
-| 61                 | 6            | 2                       | Normal Saline   | Yes      | No         | No                            | CH9    |
-| 61                 | 6            | 3                       | EUSOL           | Yes      | No         | No                            | XI1    |
-| 61                 | 6            | 4                       | Normal Saline   | Yes      | No         | No                            | OW4    |
-| 61                 | 6            | 5                       | Normal Saline   | Yes      | No         | No                            | FQ0    |
-| 61                 | 6            | 6                       | EUSOL           | Yes      | No         | No                            | ZJ6    |
-| 62                 | 4            | 1                       | Normal Saline   | Yes      | No         | No                            | KK7    |
-| 62                 | 4            | 2                       | EUSOL           | Yes      | No         | No                            | CL7    |
-| 62                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | MG8    |
-| 62                 | 4            | 4                       | Normal Saline   | Yes      | No         | No                            | RG1    |
-| 63                 | 4            | 1                       | EUSOL           | Yes      | No         | No                            | SG3    |
-| 63                 | 4            | 2                       | Normal Saline   | Yes      | No         | No                            | OR1    |
-| 63                 | 4            | 3                       | Normal Saline   | Yes      | No         | No                            | TL7    |
-| 63                 | 4            | 4                       | EUSOL           | Yes      | No         | No                            | SD5    |
-| 64                 | 6            | 1                       | Normal Saline   | Yes      | No         | No                            | LG6    |
-| 64                 | 6            | 2                       | EUSOL           | Yes      | No         | No                            | RB8    |
-| 64                 | 6            | 3                       | EUSOL           | Yes      | No         | No                            | WF3    |
-| 64                 | 6            | 4                       | Normal Saline   | Yes      | No         | No                            | AT5    |
-| 64                 | 6            | 5                       | EUSOL           | Yes      | No         | No                            | HT4    |
-| 64                 | 6            | 6                       | Normal Saline   | Yes      | No         | No                            | FY6    |
-| 65                 | 6            | 1                       | EUSOL           | Yes      | No         | No                            | LF3    |
-| 65                 | 6            | 2                       | Normal Saline   | Yes      | No         | No                            | ZJ1    |
-| 65                 | 6            | 3                       | Normal Saline   | Yes      | No         | No                            | RH6    |
-| 65                 | 6            | 4                       | EUSOL           | Yes      | No         | No                            | NS8    |
-| 65                 | 6            | 5                       | Normal Saline   | Yes      | No         | No                            | VU7    |
-| 65                 | 6            | 6                       | EUSOL           | Yes      | No         | No                            | UH2    |
-| 66                 | 4            | 1                       | Normal Saline   | Yes      | No         | No                            | LL2    |
-| 66                 | 4            | 2                       | Normal Saline   | Yes      | No         | No                            | YQ8    |
-| 66                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | TO7    |
-| 66                 | 4            | 4                       | EUSOL           | Yes      | No         | No                            | TD2    |
-| 67                 | 4            | 1                       | Normal Saline   | Yes      | No         | No                            | AI7    |
-| 67                 | 4            | 2                       | Normal Saline   | Yes      | No         | No                            | EG7    |
-| 67                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | TL5    |
-| 67                 | 4            | 4                       | EUSOL           | Yes      | No         | No                            | BW5    |
-| 68                 | 6            | 1                       | Normal Saline   | Yes      | No         | No                            | AI5    |
-| 68                 | 6            | 2                       | EUSOL           | Yes      | No         | No                            | OQ4    |
-| 68                 | 6            | 3                       | EUSOL           | Yes      | No         | No                            | XW0    |
-| 68                 | 6            | 4                       | Normal Saline   | Yes      | No         | No                            | BA1    |
-| 68                 | 6            | 5                       | EUSOL           | Yes      | No         | No                            | QA3    |
-| 68                 | 6            | 6                       | Normal Saline   | Yes      | No         | No                            | OD1    |
-| 69                 | 4            | 1                       | EUSOL           | Yes      | No         | No                            | FC2    |
-| 69                 | 4            | 2                       | Normal Saline   | Yes      | No         | No                            | EG8    |
-| 69                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | KN3    |
-| 69                 | 4            | 4                       | Normal Saline   | Yes      | No         | No                            | FD0    |
-| 70                 | 4            | 1                       | EUSOL           | Yes      | No         | No                            | MN2    |
-| 70                 | 4            | 2                       | Normal Saline   | Yes      | No         | No                            | HT6    |
-| 70                 | 4            | 3                       | EUSOL           | Yes      | No         | No                            | XT0    |
-| 70                 | 4            | 4                       | Normal Saline   | Yes      | No         | No                            | HW7    |
-| 71                 | 6            | 1                       | EUSOL           | Yes      | No         | No                            | KK2    |
-| 71                 | 6            | 2                       | EUSOL           | Yes      | No         | No                            | OQ6    |
-| 71                 | 6            | 3                       | Normal Saline   | Yes      | No         | No                            | CZ8    |
-| 71                 | 6            | 4                       | EUSOL           | Yes      | No         | No                            | EH5    |
-| 71                 | 6            | 5                       | Normal Saline   | Yes      | No         | No                            | DQ3    |
-| 71                 | 6            | 6                       | Normal Saline   | Yes      | No         | No                            | CM2    |
-| 72                 | 8            | 1                       | Normal Saline   | No       | Yes        | Yes                           | WJ3    |
-| 72                 | 8            | 2                       | EUSOL           | No       | Yes        | Yes                           | ZV8    |
-| 72                 | 8            | 3                       | EUSOL           | No       | Yes        | Yes                           | JG8    |
-| 72                 | 8            | 4                       | Normal Saline   | No       | Yes        | Yes                           | KD1    |
-| 72                 | 8            | 5                       | Normal Saline   | No       | Yes        | Yes                           | II5    |
-| 72                 | 8            | 6                       | EUSOL           | No       | Yes        | Yes                           | LE7    |
-| 72                 | 8            | 7                       | Normal Saline   | No       | Yes        | Yes                           | UW5    |
-| 72                 | 8            | 8                       | EUSOL           | No       | Yes        | Yes                           | ZV3    |
-| 73                 | 4            | 1                       | Normal Saline   | No       | Yes        | Yes                           | QH2    |
-| 73                 | 4            | 2                       | Normal Saline   | No       | Yes        | Yes                           | HO6    |
-| 73                 | 4            | 3                       | EUSOL           | No       | Yes        | Yes                           | BY3    |
-| 73                 | 4            | 4                       | EUSOL           | No       | Yes        | Yes                           | NH4    |
-| 74                 | 8            | 1                       | EUSOL           | No       | Yes        | Yes                           | EK8    |
-| 74                 | 8            | 2                       | Normal Saline   | No       | Yes        | Yes                           | HW1    |
-| 74                 | 8            | 3                       | Normal Saline   | No       | Yes        | Yes                           | CL9    |
-| 74                 | 8            | 4                       | Normal Saline   | No       | Yes        | Yes                           | OM7    |
-| 74                 | 8            | 5                       | EUSOL           | No       | Yes        | Yes                           | JO6    |
-| 74                 | 8            | 6                       | Normal Saline   | No       | Yes        | Yes                           | ZL7    |
-| 74                 | 8            | 7                       | EUSOL           | No       | Yes        | Yes                           | VL9    |
-| 74                 | 8            | 8                       | EUSOL           | No       | Yes        | Yes                           | QK2    |
-| 75                 | 6            | 1                       | EUSOL           | No       | Yes        | Yes                           | LY4    |
-| 75                 | 6            | 2                       | Normal Saline   | No       | Yes        | Yes                           | LB0    |
-| 75                 | 6            | 3                       | EUSOL           | No       | Yes        | Yes                           | MG6    |
-| 75                 | 6            | 4                       | Normal Saline   | No       | Yes        | Yes                           | UN7    |
-| 75                 | 6            | 5                       | EUSOL           | No       | Yes        | Yes                           | ZI0    |
-| 75                 | 6            | 6                       | Normal Saline   | No       | Yes        | Yes                           | BO6    |
-| 76                 | 6            | 1                       | Normal Saline   | No       | Yes        | Yes                           | CQ6    |
-| 76                 | 6            | 2                       | EUSOL           | No       | Yes        | Yes                           | FC0    |
-| 76                 | 6            | 3                       | Normal Saline   | No       | Yes        | Yes                           | VW0    |
-| 76                 | 6            | 4                       | EUSOL           | No       | Yes        | Yes                           | VQ3    |
-| 76                 | 6            | 5                       | EUSOL           | No       | Yes        | Yes                           | AN7    |
-| 76                 | 6            | 6                       | Normal Saline   | No       | Yes        | Yes                           | HL5    |
-| 77                 | 8            | 1                       | EUSOL           | No       | Yes        | Yes                           | UM0    |
-| 77                 | 8            | 2                       | Normal Saline   | No       | Yes        | Yes                           | NY4    |
-| 77                 | 8            | 3                       | Normal Saline   | No       | Yes        | Yes                           | BQ8    |
-| 77                 | 8            | 4                       | EUSOL           | No       | Yes        | Yes                           | MG5    |
-| 77                 | 8            | 5                       | Normal Saline   | No       | Yes        | Yes                           | ZI9    |
-| 77                 | 8            | 6                       | Normal Saline   | No       | Yes        | Yes                           | YM7    |
-| 77                 | 8            | 7                       | EUSOL           | No       | Yes        | Yes                           | FR7    |
-| 77                 | 8            | 8                       | EUSOL           | No       | Yes        | Yes                           | HO3    |
-| 78                 | 6            | 1                       | Normal Saline   | No       | Yes        | Yes                           | VI4    |
-| 78                 | 6            | 2                       | Normal Saline   | No       | Yes        | Yes                           | OO7    |
-| 78                 | 6            | 3                       | EUSOL           | No       | Yes        | Yes                           | YT3    |
-| 78                 | 6            | 4                       | EUSOL           | No       | Yes        | Yes                           | NN0    |
-| 78                 | 6            | 5                       | EUSOL           | No       | Yes        | Yes                           | GU8    |
-| 78                 | 6            | 6                       | Normal Saline   | No       | Yes        | Yes                           | WF2    |
-| 79                 | 4            | 1                       | Normal Saline   | No       | Yes        | Yes                           | MJ2    |
-| 79                 | 4            | 2                       | Normal Saline   | No       | Yes        | Yes                           | TM6    |
-| 79                 | 4            | 3                       | EUSOL           | No       | Yes        | Yes                           | LY9    |
-| 79                 | 4            | 4                       | EUSOL           | No       | Yes        | Yes                           | DQ8    |
-| 80                 | 4            | 1                       | Normal Saline   | No       | Yes        | Yes                           | AY8    |
-| 80                 | 4            | 2                       | Normal Saline   | No       | Yes        | Yes                           | UP8    |
-| 80                 | 4            | 3                       | EUSOL           | No       | Yes        | Yes                           | EW1    |
-| 80                 | 4            | 4                       | EUSOL           | No       | Yes        | Yes                           | CC4    |
-| 81                 | 8            | 1                       | Normal Saline   | No       | Yes        | Yes                           | QP3    |
-| 81                 | 8            | 2                       | Normal Saline   | No       | Yes        | Yes                           | FQ6    |
-| 81                 | 8            | 3                       | EUSOL           | No       | Yes        | Yes                           | AJ0    |
-| 81                 | 8            | 4                       | EUSOL           | No       | Yes        | Yes                           | TZ2    |
-| 81                 | 8            | 5                       | Normal Saline   | No       | Yes        | Yes                           | VC8    |
-| 81                 | 8            | 6                       | Normal Saline   | No       | Yes        | Yes                           | BP2    |
-| 81                 | 8            | 7                       | EUSOL           | No       | Yes        | Yes                           | AK5    |
-| 81                 | 8            | 8                       | EUSOL           | No       | Yes        | Yes                           | UO4    |
-| 82                 | 8            | 1                       | EUSOL           | No       | Yes        | Yes                           | ER2    |
-| 82                 | 8            | 2                       | Normal Saline   | No       | Yes        | Yes                           | QS3    |
-| 82                 | 8            | 3                       | Normal Saline   | No       | Yes        | Yes                           | TF5    |
-| 82                 | 8            | 4                       | EUSOL           | No       | Yes        | Yes                           | LN3    |
-| 82                 | 8            | 5                       | EUSOL           | No       | Yes        | Yes                           | QS2    |
-| 82                 | 8            | 6                       | EUSOL           | No       | Yes        | Yes                           | JR8    |
-| 82                 | 8            | 7                       | Normal Saline   | No       | Yes        | Yes                           | XR5    |
-| 82                 | 8            | 8                       | Normal Saline   | No       | Yes        | Yes                           | II6    |
-| 83                 | 4            | 1                       | EUSOL           | No       | Yes        | Yes                           | HH1    |
-| 83                 | 4            | 2                       | EUSOL           | No       | Yes        | Yes                           | BO8    |
-| 83                 | 4            | 3                       | Normal Saline   | No       | Yes        | Yes                           | NP1    |
-| 83                 | 4            | 4                       | Normal Saline   | No       | Yes        | Yes                           | QG8    |
-| 84                 | 8            | 1                       | EUSOL           | No       | Yes        | Yes                           | YE2    |
-| 84                 | 8            | 2                       | Normal Saline   | No       | Yes        | Yes                           | PG9    |
-| 84                 | 8            | 3                       | EUSOL           | No       | Yes        | Yes                           | UP5    |
-| 84                 | 8            | 4                       | Normal Saline   | No       | Yes        | Yes                           | NG1    |
-| 84                 | 8            | 5                       | EUSOL           | No       | Yes        | Yes                           | LN7    |
-| 84                 | 8            | 6                       | Normal Saline   | No       | Yes        | Yes                           | IC2    |
-| 84                 | 8            | 7                       | Normal Saline   | No       | Yes        | Yes                           | ZS0    |
-| 84                 | 8            | 8                       | EUSOL           | No       | Yes        | Yes                           | PG1    |
-| 85                 | 8            | 1                       | Normal Saline   | No       | Yes        | Yes                           | GI4    |
-| 85                 | 8            | 2                       | Normal Saline   | No       | Yes        | Yes                           | AJ2    |
-| 85                 | 8            | 3                       | EUSOL           | No       | Yes        | Yes                           | XG1    |
-| 85                 | 8            | 4                       | Normal Saline   | No       | Yes        | Yes                           | XC4    |
-| 85                 | 8            | 5                       | EUSOL           | No       | Yes        | Yes                           | IH1    |
-| 85                 | 8            | 6                       | Normal Saline   | No       | Yes        | Yes                           | CD3    |
-| 85                 | 8            | 7                       | EUSOL           | No       | Yes        | Yes                           | OK1    |
-| 85                 | 8            | 8                       | EUSOL           | No       | Yes        | Yes                           | PC5    |
-| 86                 | 6            | 1                       | Normal Saline   | No       | Yes        | Yes                           | MA3    |
-| 86                 | 6            | 2                       | Normal Saline   | No       | Yes        | Yes                           | NQ6    |
-| 86                 | 6            | 3                       | Normal Saline   | No       | Yes        | Yes                           | UF9    |
-| 86                 | 6            | 4                       | EUSOL           | No       | Yes        | Yes                           | ZZ1    |
-| 86                 | 6            | 5                       | EUSOL           | No       | Yes        | Yes                           | GT8    |
-| 86                 | 6            | 6                       | EUSOL           | No       | Yes        | Yes                           | EW7    |
-| 87                 | 4            | 1                       | EUSOL           | No       | Yes        | Yes                           | ZZ6    |
-| 87                 | 4            | 2                       | EUSOL           | No       | Yes        | Yes                           | EZ4    |
-| 87                 | 4            | 3                       | Normal Saline   | No       | Yes        | Yes                           | XZ3    |
-| 87                 | 4            | 4                       | Normal Saline   | No       | Yes        | Yes                           | ME8    |
-| 88                 | 8            | 1                       | Normal Saline   | No       | Yes        | No                            | QH4    |
-| 88                 | 8            | 2                       | Normal Saline   | No       | Yes        | No                            | MM8    |
-| 88                 | 8            | 3                       | Normal Saline   | No       | Yes        | No                            | DQ1    |
-| 88                 | 8            | 4                       | EUSOL           | No       | Yes        | No                            | XJ6    |
-| 88                 | 8            | 5                       | EUSOL           | No       | Yes        | No                            | PS9    |
-| 88                 | 8            | 6                       | EUSOL           | No       | Yes        | No                            | JR6    |
-| 88                 | 8            | 7                       | Normal Saline   | No       | Yes        | No                            | AN9    |
-| 88                 | 8            | 8                       | EUSOL           | No       | Yes        | No                            | XV6    |
-| 89                 | 6            | 1                       | Normal Saline   | No       | Yes        | No                            | QK7    |
-| 89                 | 6            | 2                       | Normal Saline   | No       | Yes        | No                            | HL9    |
-| 89                 | 6            | 3                       | EUSOL           | No       | Yes        | No                            | LB7    |
-| 89                 | 6            | 4                       | Normal Saline   | No       | Yes        | No                            | SO0    |
-| 89                 | 6            | 5                       | EUSOL           | No       | Yes        | No                            | ON0    |
-| 89                 | 6            | 6                       | EUSOL           | No       | Yes        | No                            | LP8    |
-| 90                 | 4            | 1                       | EUSOL           | No       | Yes        | No                            | QJ7    |
-| 90                 | 4            | 2                       | EUSOL           | No       | Yes        | No                            | CN1    |
-| 90                 | 4            | 3                       | Normal Saline   | No       | Yes        | No                            | QQ6    |
-| 90                 | 4            | 4                       | Normal Saline   | No       | Yes        | No                            | EW3    |
-| 91                 | 6            | 1                       | EUSOL           | No       | Yes        | No                            | ES6    |
-| 91                 | 6            | 2                       | Normal Saline   | No       | Yes        | No                            | EO4    |
-| 91                 | 6            | 3                       | Normal Saline   | No       | Yes        | No                            | AE9    |
-| 91                 | 6            | 4                       | EUSOL           | No       | Yes        | No                            | OA6    |
-| 91                 | 6            | 5                       | Normal Saline   | No       | Yes        | No                            | DM2    |
-| 91                 | 6            | 6                       | EUSOL           | No       | Yes        | No                            | AD5    |
-| 92                 | 6            | 1                       | EUSOL           | No       | Yes        | No                            | EC3    |
-| 92                 | 6            | 2                       | EUSOL           | No       | Yes        | No                            | GB2    |
-| 92                 | 6            | 3                       | Normal Saline   | No       | Yes        | No                            | EI9    |
-| 92                 | 6            | 4                       | EUSOL           | No       | Yes        | No                            | NN8    |
-| 92                 | 6            | 5                       | Normal Saline   | No       | Yes        | No                            | AC5    |
-| 92                 | 6            | 6                       | Normal Saline   | No       | Yes        | No                            | LP2    |
-| 93                 | 6            | 1                       | Normal Saline   | No       | Yes        | No                            | QG9    |
-| 93                 | 6            | 2                       | Normal Saline   | No       | Yes        | No                            | NV0    |
-| 93                 | 6            | 3                       | EUSOL           | No       | Yes        | No                            | NS5    |
-| 93                 | 6            | 4                       | EUSOL           | No       | Yes        | No                            | UT1    |
-| 93                 | 6            | 5                       | EUSOL           | No       | Yes        | No                            | RR0    |
-| 93                 | 6            | 6                       | Normal Saline   | No       | Yes        | No                            | OK4    |
-| 94                 | 6            | 1                       | Normal Saline   | No       | Yes        | No                            | AN2    |
-| 94                 | 6            | 2                       | EUSOL           | No       | Yes        | No                            | SK2    |
-| 94                 | 6            | 3                       | Normal Saline   | No       | Yes        | No                            | LM8    |
-| 94                 | 6            | 4                       | Normal Saline   | No       | Yes        | No                            | KN5    |
-| 94                 | 6            | 5                       | EUSOL           | No       | Yes        | No                            | CL4    |
-| 94                 | 6            | 6                       | EUSOL           | No       | Yes        | No                            | HO7    |
-| 95                 | 4            | 1                       | Normal Saline   | No       | Yes        | No                            | RW7    |
-| 95                 | 4            | 2                       | EUSOL           | No       | Yes        | No                            | SD8    |
-| 95                 | 4            | 3                       | EUSOL           | No       | Yes        | No                            | RV2    |
-| 95                 | 4            | 4                       | Normal Saline   | No       | Yes        | No                            | DI2    |
-| 96                 | 4            | 1                       | EUSOL           | No       | Yes        | No                            | HV2    |
-| 96                 | 4            | 2                       | Normal Saline   | No       | Yes        | No                            | ZG7    |
-| 96                 | 4            | 3                       | EUSOL           | No       | Yes        | No                            | VM2    |
-| 96                 | 4            | 4                       | Normal Saline   | No       | Yes        | No                            | QH1    |
-| 97                 | 8            | 1                       | EUSOL           | No       | Yes        | No                            | TD6    |
-| 97                 | 8            | 2                       | EUSOL           | No       | Yes        | No                            | EH4    |
-| 97                 | 8            | 3                       | Normal Saline   | No       | Yes        | No                            | AT8    |
-| 97                 | 8            | 4                       | Normal Saline   | No       | Yes        | No                            | DX3    |
-| 97                 | 8            | 5                       | EUSOL           | No       | Yes        | No                            | CH3    |
-| 97                 | 8            | 6                       | Normal Saline   | No       | Yes        | No                            | XI2    |
-| 97                 | 8            | 7                       | EUSOL           | No       | Yes        | No                            | YJ4    |
-| 97                 | 8            | 8                       | Normal Saline   | No       | Yes        | No                            | US0    |
-| 98                 | 6            | 1                       | EUSOL           | No       | Yes        | No                            | RU0    |
-| 98                 | 6            | 2                       | Normal Saline   | No       | Yes        | No                            | FP6    |
-| 98                 | 6            | 3                       | EUSOL           | No       | Yes        | No                            | TP3    |
-| 98                 | 6            | 4                       | Normal Saline   | No       | Yes        | No                            | DP0    |
-| 98                 | 6            | 5                       | Normal Saline   | No       | Yes        | No                            | MZ3    |
-| 98                 | 6            | 6                       | EUSOL           | No       | Yes        | No                            | TM2    |
-| 99                 | 8            | 1                       | EUSOL           | No       | Yes        | No                            | IT4    |
-| 99                 | 8            | 2                       | Normal Saline   | No       | Yes        | No                            | YE8    |
-| 99                 | 8            | 3                       | Normal Saline   | No       | Yes        | No                            | XS8    |
-| 99                 | 8            | 4                       | Normal Saline   | No       | Yes        | No                            | OK7    |
-| 99                 | 8            | 5                       | EUSOL           | No       | Yes        | No                            | NP4    |
-| 99                 | 8            | 6                       | Normal Saline   | No       | Yes        | No                            | US7    |
-| 99                 | 8            | 7                       | EUSOL           | No       | Yes        | No                            | TR1    |
-| 99                 | 8            | 8                       | EUSOL           | No       | Yes        | No                            | CS8    |
-| 100                | 6            | 1                       | EUSOL           | No       | Yes        | No                            | GB3    |
-| 100                | 6            | 2                       | EUSOL           | No       | Yes        | No                            | LE6    |
-| 100                | 6            | 3                       | EUSOL           | No       | Yes        | No                            | MG0    |
-| 100                | 6            | 4                       | Normal Saline   | No       | Yes        | No                            | XP5    |
-| 100                | 6            | 5                       | Normal Saline   | No       | Yes        | No                            | MP9    |
-| 100                | 6            | 6                       | Normal Saline   | No       | Yes        | No                            | DQ7    |
-| 101                | 6            | 1                       | EUSOL           | No       | Yes        | No                            | ZS7    |
-| 101                | 6            | 2                       | Normal Saline   | No       | Yes        | No                            | YK8    |
-| 101                | 6            | 3                       | EUSOL           | No       | Yes        | No                            | CN8    |
-| 101                | 6            | 4                       | Normal Saline   | No       | Yes        | No                            | HJ3    |
-| 101                | 6            | 5                       | Normal Saline   | No       | Yes        | No                            | QX8    |
-| 101                | 6            | 6                       | EUSOL           | No       | Yes        | No                            | OC2    |
-| 102                | 4            | 1                       | Normal Saline   | No       | Yes        | No                            | CR4    |
-| 102                | 4            | 2                       | EUSOL           | No       | Yes        | No                            | KR7    |
-| 102                | 4            | 3                       | EUSOL           | No       | Yes        | No                            | CW1    |
-| 102                | 4            | 4                       | Normal Saline   | No       | Yes        | No                            | JT1    |
-| 103                | 4            | 1                       | Normal Saline   | No       | Yes        | No                            | NN9    |
-| 103                | 4            | 2                       | Normal Saline   | No       | Yes        | No                            | TQ2    |
-| 103                | 4            | 3                       | EUSOL           | No       | Yes        | No                            | OO5    |
-| 103                | 4            | 4                       | EUSOL           | No       | Yes        | No                            | CC5    |
-| 104                | 4            | 1                       | EUSOL           | No       | Yes        | No                            | MP2    |
-| 104                | 4            | 2                       | Normal Saline   | No       | Yes        | No                            | XN6    |
-| 104                | 4            | 3                       | Normal Saline   | No       | Yes        | No                            | AS5    |
-| 104                | 4            | 4                       | EUSOL           | No       | Yes        | No                            | NH8    |
-| 105                | 8            | 1                       | EUSOL           | No       | Yes        | No                            | OR2    |
-| 105                | 8            | 2                       | EUSOL           | No       | Yes        | No                            | XS5    |
-| 105                | 8            | 3                       | Normal Saline   | No       | Yes        | No                            | FD2    |
-| 105                | 8            | 4                       | EUSOL           | No       | Yes        | No                            | UC8    |
-| 105                | 8            | 5                       | Normal Saline   | No       | Yes        | No                            | AZ3    |
-| 105                | 8            | 6                       | EUSOL           | No       | Yes        | No                            | UB3    |
-| 105                | 8            | 7                       | Normal Saline   | No       | Yes        | No                            | BZ1    |
-| 105                | 8            | 8                       | Normal Saline   | No       | Yes        | No                            | RL7    |
-| 106                | 8            | 1                       | Normal Saline   | No       | No         | Yes                           | ED2    |
-| 106                | 8            | 2                       | EUSOL           | No       | No         | Yes                           | XZ7    |
-| 106                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | QI8    |
-| 106                | 8            | 4                       | Normal Saline   | No       | No         | Yes                           | OO9    |
-| 106                | 8            | 5                       | Normal Saline   | No       | No         | Yes                           | KK1    |
-| 106                | 8            | 6                       | EUSOL           | No       | No         | Yes                           | MF4    |
-| 106                | 8            | 7                       | EUSOL           | No       | No         | Yes                           | LN8    |
-| 106                | 8            | 8                       | EUSOL           | No       | No         | Yes                           | VG4    |
-| 107                | 6            | 1                       | Normal Saline   | No       | No         | Yes                           | LQ7    |
-| 107                | 6            | 2                       | Normal Saline   | No       | No         | Yes                           | JB9    |
-| 107                | 6            | 3                       | EUSOL           | No       | No         | Yes                           | GO3    |
-| 107                | 6            | 4                       | EUSOL           | No       | No         | Yes                           | GY1    |
-| 107                | 6            | 5                       | Normal Saline   | No       | No         | Yes                           | YQ4    |
-| 107                | 6            | 6                       | EUSOL           | No       | No         | Yes                           | CR7    |
-| 108                | 4            | 1                       | Normal Saline   | No       | No         | Yes                           | PC6    |
-| 108                | 4            | 2                       | EUSOL           | No       | No         | Yes                           | FZ0    |
-| 108                | 4            | 3                       | Normal Saline   | No       | No         | Yes                           | UW3    |
-| 108                | 4            | 4                       | EUSOL           | No       | No         | Yes                           | DH6    |
-| 109                | 8            | 1                       | EUSOL           | No       | No         | Yes                           | SJ1    |
-| 109                | 8            | 2                       | Normal Saline   | No       | No         | Yes                           | NF8    |
-| 109                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | BE0    |
-| 109                | 8            | 4                       | EUSOL           | No       | No         | Yes                           | TT3    |
-| 109                | 8            | 5                       | EUSOL           | No       | No         | Yes                           | DY4    |
-| 109                | 8            | 6                       | EUSOL           | No       | No         | Yes                           | EG0    |
-| 109                | 8            | 7                       | Normal Saline   | No       | No         | Yes                           | IY5    |
-| 109                | 8            | 8                       | Normal Saline   | No       | No         | Yes                           | EN6    |
-| 110                | 4            | 1                       | Normal Saline   | No       | No         | Yes                           | LL6    |
-| 110                | 4            | 2                       | EUSOL           | No       | No         | Yes                           | VT3    |
-| 110                | 4            | 3                       | EUSOL           | No       | No         | Yes                           | KN2    |
-| 110                | 4            | 4                       | Normal Saline   | No       | No         | Yes                           | WI6    |
-| 111                | 6            | 1                       | EUSOL           | No       | No         | Yes                           | RL0    |
-| 111                | 6            | 2                       | Normal Saline   | No       | No         | Yes                           | HA8    |
-| 111                | 6            | 3                       | EUSOL           | No       | No         | Yes                           | GH2    |
-| 111                | 6            | 4                       | Normal Saline   | No       | No         | Yes                           | PR7    |
-| 111                | 6            | 5                       | Normal Saline   | No       | No         | Yes                           | PJ1    |
-| 111                | 6            | 6                       | EUSOL           | No       | No         | Yes                           | FB6    |
-| 112                | 4            | 1                       | Normal Saline   | No       | No         | Yes                           | BT8    |
-| 112                | 4            | 2                       | Normal Saline   | No       | No         | Yes                           | QK0    |
-| 112                | 4            | 3                       | EUSOL           | No       | No         | Yes                           | UN1    |
-| 112                | 4            | 4                       | EUSOL           | No       | No         | Yes                           | LG2    |
-| 113                | 8            | 1                       | EUSOL           | No       | No         | Yes                           | XN0    |
-| 113                | 8            | 2                       | Normal Saline   | No       | No         | Yes                           | YY9    |
-| 113                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | XJ9    |
-| 113                | 8            | 4                       | EUSOL           | No       | No         | Yes                           | LX6    |
-| 113                | 8            | 5                       | EUSOL           | No       | No         | Yes                           | MZ1    |
-| 113                | 8            | 6                       | Normal Saline   | No       | No         | Yes                           | IL3    |
-| 113                | 8            | 7                       | EUSOL           | No       | No         | Yes                           | QZ1    |
-| 113                | 8            | 8                       | Normal Saline   | No       | No         | Yes                           | BQ5    |
-| 114                | 4            | 1                       | Normal Saline   | No       | No         | Yes                           | LP3    |
-| 114                | 4            | 2                       | EUSOL           | No       | No         | Yes                           | TE6    |
-| 114                | 4            | 3                       | Normal Saline   | No       | No         | Yes                           | MA7    |
-| 114                | 4            | 4                       | EUSOL           | No       | No         | Yes                           | WY8    |
-| 115                | 6            | 1                       | EUSOL           | No       | No         | Yes                           | LF4    |
-| 115                | 6            | 2                       | EUSOL           | No       | No         | Yes                           | QQ5    |
-| 115                | 6            | 3                       | Normal Saline   | No       | No         | Yes                           | AZ8    |
-| 115                | 6            | 4                       | Normal Saline   | No       | No         | Yes                           | YM0    |
-| 115                | 6            | 5                       | Normal Saline   | No       | No         | Yes                           | JG4    |
-| 115                | 6            | 6                       | EUSOL           | No       | No         | Yes                           | QG5    |
-| 116                | 6            | 1                       | Normal Saline   | No       | No         | Yes                           | AL4    |
-| 116                | 6            | 2                       | EUSOL           | No       | No         | Yes                           | LK7    |
-| 116                | 6            | 3                       | EUSOL           | No       | No         | Yes                           | PK2    |
-| 116                | 6            | 4                       | EUSOL           | No       | No         | Yes                           | WN9    |
-| 116                | 6            | 5                       | Normal Saline   | No       | No         | Yes                           | KZ8    |
-| 116                | 6            | 6                       | Normal Saline   | No       | No         | Yes                           | OP4    |
-| 117                | 8            | 1                       | EUSOL           | No       | No         | Yes                           | TZ5    |
-| 117                | 8            | 2                       | Normal Saline   | No       | No         | Yes                           | VI1    |
-| 117                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | UH8    |
-| 117                | 8            | 4                       | EUSOL           | No       | No         | Yes                           | GH4    |
-| 117                | 8            | 5                       | EUSOL           | No       | No         | Yes                           | TL0    |
-| 117                | 8            | 6                       | Normal Saline   | No       | No         | Yes                           | KU1    |
-| 117                | 8            | 7                       | EUSOL           | No       | No         | Yes                           | XS6    |
-| 117                | 8            | 8                       | Normal Saline   | No       | No         | Yes                           | UI1    |
-| 118                | 8            | 1                       | EUSOL           | No       | No         | Yes                           | AR9    |
-| 118                | 8            | 2                       | Normal Saline   | No       | No         | Yes                           | GK6    |
-| 118                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | IS5    |
-| 118                | 8            | 4                       | Normal Saline   | No       | No         | Yes                           | DX0    |
-| 118                | 8            | 5                       | Normal Saline   | No       | No         | Yes                           | MW8    |
-| 118                | 8            | 6                       | EUSOL           | No       | No         | Yes                           | IB7    |
-| 118                | 8            | 7                       | EUSOL           | No       | No         | Yes                           | CC7    |
-| 118                | 8            | 8                       | EUSOL           | No       | No         | Yes                           | AD4    |
-| 119                | 8            | 1                       | EUSOL           | No       | No         | Yes                           | BZ2    |
-| 119                | 8            | 2                       | EUSOL           | No       | No         | Yes                           | UJ4    |
-| 119                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | UY5    |
-| 119                | 8            | 4                       | EUSOL           | No       | No         | Yes                           | QX2    |
-| 119                | 8            | 5                       | Normal Saline   | No       | No         | Yes                           | NJ9    |
-| 119                | 8            | 6                       | Normal Saline   | No       | No         | Yes                           | VD1    |
-| 119                | 8            | 7                       | EUSOL           | No       | No         | Yes                           | AK1    |
-| 119                | 8            | 8                       | Normal Saline   | No       | No         | Yes                           | TE2    |
-| 120                | 8            | 1                       | EUSOL           | No       | No         | Yes                           | NG0    |
-| 120                | 8            | 2                       | Normal Saline   | No       | No         | Yes                           | UD9    |
-| 120                | 8            | 3                       | Normal Saline   | No       | No         | Yes                           | TP0    |
-| 120                | 8            | 4                       | EUSOL           | No       | No         | Yes                           | GH0    |
-| 120                | 8            | 5                       | EUSOL           | No       | No         | Yes                           | XN1    |
-| 120                | 8            | 6                       | Normal Saline   | No       | No         | Yes                           | LQ6    |
-| 120                | 8            | 7                       | Normal Saline   | No       | No         | Yes                           | EJ8    |
-| 120                | 8            | 8                       | EUSOL           | No       | No         | Yes                           | XG6    |
-| 121                | 6            | 1                       | EUSOL           | No       | No         | Yes                           | TT9    |
-| 121                | 6            | 2                       | Normal Saline   | No       | No         | Yes                           | LM9    |
-| 121                | 6            | 3                       | Normal Saline   | No       | No         | Yes                           | ME1    |
-| 121                | 6            | 4                       | EUSOL           | No       | No         | Yes                           | IO6    |
-| 121                | 6            | 5                       | EUSOL           | No       | No         | Yes                           | JK7    |
-| 121                | 6            | 6                       | Normal Saline   | No       | No         | Yes                           | ZI8    |
-| 122                | 8            | 1                       | EUSOL           | No       | No         | No                            | AU4    |
-| 122                | 8            | 2                       | Normal Saline   | No       | No         | No                            | TM4    |
-| 122                | 8            | 3                       | EUSOL           | No       | No         | No                            | WW0    |
-| 122                | 8            | 4                       | Normal Saline   | No       | No         | No                            | UC9    |
-| 122                | 8            | 5                       | Normal Saline   | No       | No         | No                            | CQ9    |
-| 122                | 8            | 6                       | Normal Saline   | No       | No         | No                            | HW5    |
-| 122                | 8            | 7                       | EUSOL           | No       | No         | No                            | KI6    |
-| 122                | 8            | 8                       | EUSOL           | No       | No         | No                            | UH0    |
-| 123                | 4            | 1                       | EUSOL           | No       | No         | No                            | KB1    |
-| 123                | 4            | 2                       | EUSOL           | No       | No         | No                            | ZJ9    |
-| 123                | 4            | 3                       | Normal Saline   | No       | No         | No                            | CY3    |
-| 123                | 4            | 4                       | Normal Saline   | No       | No         | No                            | OO0    |
-| 124                | 8            | 1                       | Normal Saline   | No       | No         | No                            | HB3    |
-| 124                | 8            | 2                       | Normal Saline   | No       | No         | No                            | JF7    |
-| 124                | 8            | 3                       | EUSOL           | No       | No         | No                            | NY3    |
-| 124                | 8            | 4                       | EUSOL           | No       | No         | No                            | TZ0    |
-| 124                | 8            | 5                       | EUSOL           | No       | No         | No                            | MZ7    |
-| 124                | 8            | 6                       | EUSOL           | No       | No         | No                            | UH6    |
-| 124                | 8            | 7                       | Normal Saline   | No       | No         | No                            | KZ7    |
-| 124                | 8            | 8                       | Normal Saline   | No       | No         | No                            | ZJ7    |
-| 125                | 8            | 1                       | EUSOL           | No       | No         | No                            | KW1    |
-| 125                | 8            | 2                       | Normal Saline   | No       | No         | No                            | ED5    |
-| 125                | 8            | 3                       | EUSOL           | No       | No         | No                            | YH5    |
-| 125                | 8            | 4                       | Normal Saline   | No       | No         | No                            | IC4    |
-| 125                | 8            | 5                       | EUSOL           | No       | No         | No                            | DD5    |
-| 125                | 8            | 6                       | EUSOL           | No       | No         | No                            | HH7    |
-| 125                | 8            | 7                       | Normal Saline   | No       | No         | No                            | RI3    |
-| 125                | 8            | 8                       | Normal Saline   | No       | No         | No                            | NT3    |
-| 126                | 6            | 1                       | Normal Saline   | No       | No         | No                            | FE7    |
-| 126                | 6            | 2                       | Normal Saline   | No       | No         | No                            | DW8    |
-| 126                | 6            | 3                       | EUSOL           | No       | No         | No                            | JF1    |
-| 126                | 6            | 4                       | EUSOL           | No       | No         | No                            | WY3    |
-| 126                | 6            | 5                       | Normal Saline   | No       | No         | No                            | XC2    |
-| 126                | 6            | 6                       | EUSOL           | No       | No         | No                            | GB0    |
-| 127                | 8            | 1                       | EUSOL           | No       | No         | No                            | VP4    |
-| 127                | 8            | 2                       | Normal Saline   | No       | No         | No                            | OO3    |
-| 127                | 8            | 3                       | Normal Saline   | No       | No         | No                            | EI6    |
-| 127                | 8            | 4                       | EUSOL           | No       | No         | No                            | LL9    |
-| 127                | 8            | 5                       | Normal Saline   | No       | No         | No                            | LY3    |
-| 127                | 8            | 6                       | EUSOL           | No       | No         | No                            | BB1    |
-| 127                | 8            | 7                       | EUSOL           | No       | No         | No                            | VP1    |
-| 127                | 8            | 8                       | Normal Saline   | No       | No         | No                            | VI2    |
-| 128                | 6            | 1                       | EUSOL           | No       | No         | No                            | ZI6    |
-| 128                | 6            | 2                       | Normal Saline   | No       | No         | No                            | KN0    |
-| 128                | 6            | 3                       | EUSOL           | No       | No         | No                            | PW4    |
-| 128                | 6            | 4                       | EUSOL           | No       | No         | No                            | QG0    |
-| 128                | 6            | 5                       | Normal Saline   | No       | No         | No                            | KT2    |
-| 128                | 6            | 6                       | Normal Saline   | No       | No         | No                            | EP2    |
-| 129                | 4            | 1                       | Normal Saline   | No       | No         | No                            | OQ5    |
-| 129                | 4            | 2                       | EUSOL           | No       | No         | No                            | FB8    |
-| 129                | 4            | 3                       | Normal Saline   | No       | No         | No                            | WJ1    |
-| 129                | 4            | 4                       | EUSOL           | No       | No         | No                            | UP9    |
-| 130                | 8            | 1                       | EUSOL           | No       | No         | No                            | UZ7    |
-| 130                | 8            | 2                       | Normal Saline   | No       | No         | No                            | ES1    |
-| 130                | 8            | 3                       | Normal Saline   | No       | No         | No                            | CN7    |
-| 130                | 8            | 4                       | Normal Saline   | No       | No         | No                            | EV8    |
-| 130                | 8            | 5                       | EUSOL           | No       | No         | No                            | ZI5    |
-| 130                | 8            | 6                       | Normal Saline   | No       | No         | No                            | LG7    |
-| 130                | 8            | 7                       | EUSOL           | No       | No         | No                            | OW5    |
-| 130                | 8            | 8                       | EUSOL           | No       | No         | No                            | ME3    |
-| 131                | 8            | 1                       | Normal Saline   | No       | No         | No                            | WW2    |
-| 131                | 8            | 2                       | EUSOL           | No       | No         | No                            | FK7    |
-| 131                | 8            | 3                       | EUSOL           | No       | No         | No                            | XT2    |
-| 131                | 8            | 4                       | EUSOL           | No       | No         | No                            | NP7    |
-| 131                | 8            | 5                       | EUSOL           | No       | No         | No                            | SD0    |
-| 131                | 8            | 6                       | Normal Saline   | No       | No         | No                            | GC3    |
-| 131                | 8            | 7                       | Normal Saline   | No       | No         | No                            | ZY7    |
-| 131                | 8            | 8                       | Normal Saline   | No       | No         | No                            | NV8    |
-| 132                | 8            | 1                       | EUSOL           | No       | No         | No                            | CJ5    |
-| 132                | 8            | 2                       | Normal Saline   | No       | No         | No                            | ME4    |
-| 132                | 8            | 3                       | EUSOL           | No       | No         | No                            | NQ8    |
-| 132                | 8            | 4                       | Normal Saline   | No       | No         | No                            | OM8    |
-| 132                | 8            | 5                       | Normal Saline   | No       | No         | No                            | KD6    |
-| 132                | 8            | 6                       | EUSOL           | No       | No         | No                            | GF9    |
-| 132                | 8            | 7                       | Normal Saline   | No       | No         | No                            | WZ0    |
-| 132                | 8            | 8                       | EUSOL           | No       | No         | No                            | RW6    |
-| 133                | 8            | 1                       | EUSOL           | No       | No         | No                            | AA6    |
-| 133                | 8            | 2                       | EUSOL           | No       | No         | No                            | VL4    |
-| 133                | 8            | 3                       | EUSOL           | No       | No         | No                            | VT0    |
-| 133                | 8            | 4                       | Normal Saline   | No       | No         | No                            | UO0    |
-| 133                | 8            | 5                       | Normal Saline   | No       | No         | No                            | DD9    |
-| 133                | 8            | 6                       | Normal Saline   | No       | No         | No                            | CR5    |
-| 133                | 8            | 7                       | EUSOL           | No       | No         | No                            | CW0    |
-| 133                | 8            | 8                       | Normal Saline   | No       | No         | No                            | DG8    |
-| 134                | 4            | 1                       | EUSOL           | No       | No         | No                            | GC5    |
-| 134                | 4            | 2                       | EUSOL           | No       | No         | No                            | GY2    |
-| 134                | 4            | 3                       | Normal Saline   | No       | No         | No                            | UF8    |
-| 134                | 4            | 4                       | Normal Saline   | No       | No         | No                            | BB8    |
-| 135                | 4            | 1                       | Normal Saline   | No       | No         | No                            | PI4    |
-| 135                | 4            | 2                       | EUSOL           | No       | No         | No                            | LQ8    |
-| 135                | 4            | 3                       | EUSOL           | No       | No         | No                            | UZ1    |
-| 135                | 4            | 4                       | Normal Saline   | No       | No         | No                            | UB2    |
-| 136                | 4            | 1                       | Normal Saline   | No       | No         | No                            | IB4    |
-| 136                | 4            | 2                       | Normal Saline   | No       | No         | No                            | HW0    |
-| 136                | 4            | 3                       | EUSOL           | No       | No         | No                            | TR7    |
-| 136                | 4            | 4                       | EUSOL           | No       | No         | No                            | UW7    |
-| 137                | 8            | 1                       | EUSOL           | No       | No         | No                            | SG2    |
-| 137                | 8            | 2                       | Normal Saline   | No       | No         | No                            | CQ2    |
-| 137                | 8            | 3                       | Normal Saline   | No       | No         | No                            | FE0    |
-| 137                | 8            | 4                       | EUSOL           | No       | No         | No                            | TF2    |
-| 137                | 8            | 5                       | Normal Saline   | No       | No         | No                            | YJ3    |
-| 137                | 8            | 6                       | EUSOL           | No       | No         | No                            | RV7    |
-| 137                | 8            | 7                       | EUSOL           | No       | No         | No                            | MM5    |
-| 137                | 8            | 8                       | Normal Saline   | No       | No         | No                            | XU1    |
-
-* TODO /append as annexure/ Appendix: Study Proforma
-
-** 4a New Patient Registration
-
-Use this proforma to register new patients into the study who have
-recently undergone surgery within the past 24 - 48 hours and fulfill the
-inclusion and exclusion criteria.
-
-- Patient Details
-
-  - MR Number: \_--
-
-  - Name: \_\_
-
-  - Age: \_
-
-  - Gender:
-
-    - [ ] Male
-
-    - [ ] Female
-
-- Comorbidities:
-
-  - [ ] Diabetic
-
-  - [ ] Smoker
-
-  - [ ] Peripheral Arterial Disease
-
-- Details of the Surgery:
-
-  - Surgery Performed:
-
-  - Date of Surgery:
-
-- Wound Measurement:
-
-  - Longest Dimension (cm):
-
-  - Perpendicular Dimension (cm):
-
-  - Date of Measurement:
-
-** 4b: Follow-Up Wound Assessment
-
-Use this proforma to follow-up patients already enrolled in this study
-and record the dimensions and condition of the woun.
-
-- Patient Details
-
-  - MR Number: \_--
-
-  - Name: \_\_
-
-- Wound Measurement:
-
-  - Longest Dimension (cm):
-
-  - Perpendicular Dimension (cm):
-
-  - Date of Measurement:
-
-- Wound Condition
-
-  - [ ] Decision to close wound primarily
-
-  - [ ] Decision to return to OR for re-look debridement
-
-  - Date of Decision:
-
-* TODO /append as annexure/ Appendix: Reporting of Analysis
-#+CAPTION: Tabulation of \theta for each patient using their wound measurements
-| Patient Number | \theta | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
-|----------------+--------+-----+-----+-----+-----+-----+-----+-----|
-| _1st patient_  |        |     |     |     |     |     |     |     |
-| _2nd patient_  |        |     |     |     |     |     |     |     |
-| \dots          |        |     |     |     |     |     |     |     |
-| _nth patient_  |        |     |     |     |     |     |     |     |
-
-* References
-bibliographystyle:apalike
+Operational Definitions), each wound will have a set of 7 measurements. These
+measurements will then be plotted on a graph of progress of wound margins
+towards the center of the wound against time. This graph follows a delayed
+exponential curve having coefficient θ. The coefficient θ will be calculated for
+all patients by fitting their individual wound measurements to the delayed
+exponential curve. Wounds having a faster healing rate will have a higher value
+of θ.
+
+Student's t-test will be used to detect any significant difference in θ of
+patients in normal saline group and those in the EUSOL group.
+
+* Bibliography
+bibliographystyle:plain
 bibliography:bibliography.bib
